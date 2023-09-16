@@ -1,0 +1,4122 @@
+[
+    {
+        "type": "symptom",
+        "path": "swelling-around-the-neck",
+        "seoName": "A lump in the neck",
+        "symptomUuid": "b59407d8-f846-4981-8e02-f9b4fcb8b84b",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "abdominal-pain",
+        "seoName": "Abdominal pain",
+        "symptomUuid": "b3a0c9bc-1b58-4d4d-985a-dfcdc71dc1d5",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "tummy-wound-or-injury",
+        "seoName": "Abdominal trauma",
+        "symptomUuid": "8a74256f-5fea-4d79-a233-d5a367abf7e4",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "abnormal-amount-or-time-period-of-menstruation",
+        "seoName": "Abnormal period",
+        "symptomUuid": "55e69a34-bc44-400b-a427-04b3e08d0835",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "skin-abnormality",
+        "seoName": "Abnormal skin",
+        "symptomUuid": "53218625-c7a8-478d-b686-3f338ffa5068",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "change-in-vaginal-discharge",
+        "seoName": "Abnormal vaginal discharge",
+        "symptomUuid": "e4fc1b59-59a7-466a-91af-a8cb05555092",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "accidental-alcohol-intake",
+        "seoName": "Accidental alcohol intake",
+        "symptomUuid": "853ad0f2-3b43-4484-bd3d-f971ff73d816",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "achilles-tendon-pain",
+        "seoName": "Achilles tendon pain",
+        "symptomUuid": "59341224-24f8-4d3d-8069-eb51cc0ffcb5",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "swelling-of-the-affected-area",
+        "seoName": "Affected area is swollen",
+        "symptomUuid": "9a3d2077-a113-4ed4-99b0-41445205def5",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "affected-part-is-hot",
+        "seoName": "Affected area is warm",
+        "symptomUuid": "8effd00d-c167-4c0c-8681-d5e9f35a61e5",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "craving-alcohol",
+        "seoName": "Alcohol cravings",
+        "symptomUuid": "7a236e72-f73f-40f6-9d5e-9f2c5defed5f",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "alcoholism",
+        "seoName": "Alcoholism",
+        "symptomUuid": "1dc88784-23f0-482e-acb8-b52975746fc3",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "mental-symptoms",
+        "seoName": "Alteration in mental status",
+        "symptomUuid": "6783baa8-bddd-4161-b16f-bcaffd39d474",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "always-nervous",
+        "seoName": "Always nervous",
+        "symptomUuid": "2f6db698-a074-4f35-86cd-320fbfcb4932",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "anal-itch",
+        "seoName": "Anal itch",
+        "symptomUuid": "dd0b1491-2a8d-4118-b974-f60540e01417",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "anal-pain",
+        "seoName": "Anal pain",
+        "symptomUuid": "e1b87e5a-61f6-4b8f-a2cc-a6a7453dd1a8",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "ankle-pain",
+        "seoName": "Ankle pain",
+        "symptomUuid": "e94c3a84-af66-44bb-9456-734ccb91e738",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "anxiety",
+        "seoName": "Anxiety",
+        "symptomUuid": "b181096c-7fda-4d0f-b5c3-94feb6e2994d",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "arm-cramps",
+        "seoName": "Arm cramps",
+        "symptomUuid": "8de97fad-3f02-4d71-ac10-43b81352e9bd",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "arm-swelling",
+        "seoName": "Arm is swollen",
+        "symptomUuid": "d59b3fb9-7f62-4cbd-a338-08f757e386eb",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "upper-extremity-numbness",
+        "seoName": "Arm numbness",
+        "symptomUuid": "73609f31-8339-4de8-bbe6-cab1f2814788",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "arm-pain",
+        "seoName": "Arm pain",
+        "symptomUuid": "7ddb8283-cc2a-46b9-a67a-6e53c9c0d952",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "arm-paralysis",
+        "seoName": "Arm paralysis",
+        "symptomUuid": "f7c28883-e078-41f6-987b-d9cc5c53d02a",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "axilla-pain",
+        "seoName": "Armpit pain",
+        "symptomUuid": "419807af-4e98-402c-85a6-1e4909af9b1a",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "back-pain",
+        "seoName": "Back pain",
+        "symptomUuid": "93b66b59-9427-48af-953a-e9bacf04732b",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "halitosis",
+        "seoName": "Bad breath",
+        "symptomUuid": "87c76c27-89f3-4d1a-8738-27a7c939ff03",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "black-stool",
+        "seoName": "Black stools",
+        "symptomUuid": "987bf6b3-0373-437f-ba14-d4d312b9b9ac",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "bladder-pain",
+        "seoName": "Bladder pain",
+        "symptomUuid": "4109ef02-e61c-4be1-9b8b-01bfd9d989bb",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "blank-out-or-stare-into-space-for-a-few-seconds",
+        "seoName": "Blank out or stare into space for a few seconds",
+        "symptomUuid": "ade6a792-500e-4bf0-99cf-5028f193a2ae",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "bleeding-during-or-after-sexual-intercourse",
+        "seoName": "Bleeding after sexual intercourse",
+        "symptomUuid": "6ec1f0f2-8053-426c-9b22-1b9510526e47",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "intermenstrual-bleeding",
+        "seoName": "Bleeding between periods",
+        "symptomUuid": "0a750ebc-8621-41c0-b306-fc2fdb0c1aec",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "gum-bleeding",
+        "seoName": "Bleeding from gums",
+        "symptomUuid": "f1ad73e0-75d3-4bfd-afad-a3f6d4f37cb9",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "nose-bleeding",
+        "seoName": "Bleeding from the nose",
+        "symptomUuid": "3de9db5a-89ae-46c5-9afc-14941781e7b7",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "bleeding-gums-when-brushing-teeth",
+        "seoName": "Bleeding gums when brushing",
+        "symptomUuid": "fdc67651-bb13-41d2-9b3c-c11dfd8f1405",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "night-blindness",
+        "seoName": "Blind at night",
+        "symptomUuid": "3491282a-932b-4a75-ad13-38c74e75dcca",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "visual-field-abnormality",
+        "seoName": "Blind spots in vision",
+        "symptomUuid": "c0ba6070-2700-4ad5-8684-74f447cb3d98",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "formation-of-blisters",
+        "seoName": "Blistering",
+        "symptomUuid": "2ff4eb83-2dc5-46d9-bff7-479e997c4b6c",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "abdominal-bloating-sensation",
+        "seoName": "Bloated stomach",
+        "symptomUuid": "285a0bd9-233d-43ca-9113-549a7e340282",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "blood-stained-breast-milk",
+        "seoName": "Blood in breast milk",
+        "symptomUuid": "24a734ae-2a3f-4abb-9dae-a23d757c9b6e",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "fresh-blood-nasal-discharge",
+        "seoName": "Blood in mucus from nose",
+        "symptomUuid": "33807dee-2786-445e-9ba1-180765e66a41",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "blood-in-stool",
+        "seoName": "Blood in stool",
+        "symptomUuid": "aaaa6319-245c-494f-a660-4b008ed196bd",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "blood-in-the-semen",
+        "seoName": "Blood in the semen",
+        "symptomUuid": "0230b390-4503-4161-9a42-e8a5373e9e66",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "gross-hematuria",
+        "seoName": "Blood in urine",
+        "symptomUuid": "392e8b9c-6eee-4fd4-a265-ac8620e6d3ca",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "blood-pressure-less-than-mmhg-or-unrecordable-by-machine",
+        "seoName": "Blood pressure less than 80mmhg or \"unrecordable\" by machine",
+        "symptomUuid": "29f1c1b6-b939-492f-9337-408323593c7b",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "eye-hemorrhage",
+        "seoName": "Blood vessels broken in eyes",
+        "symptomUuid": "2e7e6143-1207-49ce-9642-1682ea690e77",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "congestion",
+        "seoName": "Bloodshot eyes",
+        "symptomUuid": "87145f6b-5bc0-41ef-ab40-e48e5fe43233",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "blueish-nodules",
+        "seoName": "Blue bump on skin",
+        "symptomUuid": "d62c4fcd-ca96-4aa8-a871-0bce0877710b",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "blurred-vision",
+        "seoName": "Blurred vision",
+        "symptomUuid": "fcfb441b-0640-489c-8253-2704eb6384af",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "genu-varum",
+        "seoName": "Bow legs",
+        "symptomUuid": "a838c46f-f740-48d5-bfac-2366527b5863",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "disorder-of-consciousness",
+        "seoName": "Brain fog",
+        "symptomUuid": "d71f3138-70db-44f1-89c0-6c6a2084f341",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "breast-lump",
+        "seoName": "Breast lump",
+        "symptomUuid": "95336248-7357-4c8f-a20e-397403a7cd8c",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "lactation",
+        "seoName": "Breast milk outside pregnancy or in a man",
+        "symptomUuid": "291ad9a4-b7fe-4909-9506-92be4b239805",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "breast-pain",
+        "seoName": "Breast pain",
+        "symptomUuid": "84b3543f-1738-4bcf-aea0-92d022126952",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "it-hurts-to-hit-the-breast",
+        "seoName": "Breast tenderness",
+        "symptomUuid": "0f600a88-5eaa-4a2c-a385-990a1da2f1fb",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "breast-asymmetry",
+        "seoName": "Breasts appear different",
+        "symptomUuid": "43cea282-ef44-4530-8266-f0f217cf4bb1",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "breasts-feel-stretched-tight-or-full",
+        "seoName": "Breasts feel full",
+        "symptomUuid": "c354f8c8-f1b2-4edd-998b-5d8f53f55fd3",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "easy-bruising",
+        "seoName": "Bruise easily",
+        "symptomUuid": "762ce284-6ad4-4bdb-b2a3-b656c1a15382",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "hematomas-other-than-the-forehead",
+        "seoName": "Bruises on body but not the forehead",
+        "symptomUuid": "5a349843-6808-47b2-9c53-124d9db677a9",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "proptosis",
+        "seoName": "Bulging eyes",
+        "symptomUuid": "fd4253c8-fad5-47bf-852e-527b11043d0c",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "lip-nodule",
+        "seoName": "Bump on lip",
+        "symptomUuid": "8f06d4ac-3a5d-408b-a18b-678d3843cc8b",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "lump-under-or-around-the-nail",
+        "seoName": "Bump under fingernail",
+        "symptomUuid": "64ee8f1e-2c8a-4290-86b6-fca2c167e968",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "tumor-on-the-back",
+        "seoName": "Bumps on back",
+        "symptomUuid": "f70a8241-66c3-4e50-81ca-96c860c1c577",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "bumps-or-swellings-around-the-vulva",
+        "seoName": "Bumps or swellings around the vulva",
+        "symptomUuid": "208b1afe-d303-4899-b742-772c576b24ff",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "burns",
+        "seoName": "Burned",
+        "symptomUuid": "b918f38e-a8fa-4f1c-8bfd-2f6fc0dc3ea3",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "buttocks-pain",
+        "seoName": "Buttock pain",
+        "symptomUuid": "364dfcc0-7852-4da9-88d0-5524e001925d",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "calf-pain",
+        "seoName": "Calf pain",
+        "symptomUuid": "db1665e2-67b7-473e-ba75-b47fc168e63b",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "knee-joint-flexion-difficulty",
+        "seoName": "Can't bend the knee",
+        "symptomUuid": "3adf55d4-93fd-4d60-a1b7-91af18bf3fc7",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "poor-concentration",
+        "seoName": "Can't focus",
+        "symptomUuid": "208beb3d-d9da-486c-b1c0-958bc0e78725",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "hard-to-get-up-in-the-morning",
+        "seoName": "Can't wake up in the morning",
+        "symptomUuid": "24cb16ec-4c38-40c3-9569-185a08b63bdd",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "nail-color-abnormalities",
+        "seoName": "Change in nail colour",
+        "symptomUuid": "e77fed1c-def6-429d-8f31-6ccb594fde11",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "personality-change",
+        "seoName": "Change in personality",
+        "symptomUuid": "e2a50865-64dc-4b10-b420-0710e67c9bd0",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "change-in-stool-color",
+        "seoName": "Change in stool color",
+        "symptomUuid": "72dfe837-332a-4c1c-a3ac-d04dcaeec34e",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "change-in-stool-consistency",
+        "seoName": "Change in stool consistency",
+        "symptomUuid": "0229ba14-4619-4439-bed5-5fc92fa55d8a",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "change-in-stool-smell",
+        "seoName": "Change in stool smell",
+        "symptomUuid": "2d559784-1fbd-424f-aad9-689dd41c9b89",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "change-the-color-of-teeth",
+        "seoName": "Change in tooth color",
+        "symptomUuid": "f4bd8d1c-5685-41fa-a18a-7ad86ff33be9",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "leg-cramps",
+        "seoName": "Charley horse",
+        "symptomUuid": "a646e025-f895-4d2b-acb4-e8ed79fef067",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "talkativeness",
+        "seoName": "Chatty",
+        "symptomUuid": "ee00fb29-5007-4921-aa18-a4ca007033c8",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "chest-lump",
+        "seoName": "Chest lump",
+        "symptomUuid": "7ab33cc3-5523-4e9a-b7dd-638c2c94d051",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "chest-pain",
+        "seoName": "Chest pain",
+        "symptomUuid": "083abc00-a206-4347-a38e-cfd53a46f2b5",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "child-is-speaking-less",
+        "seoName": "Child is speaking less",
+        "symptomUuid": "4bbdc8b4-5cc0-4f89-9e2d-b10432aa5777",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "cold",
+        "seoName": "Chilled",
+        "symptomUuid": "45a3a431-bb95-42b0-8b68-0f357edd7604",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "choking-during-a-meal",
+        "seoName": "Choking when eating",
+        "symptomUuid": "832a5f76-01d0-4538-904a-2a472d510ca0",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "blocked-ears",
+        "seoName": "Clogged ears",
+        "symptomUuid": "fb90a9e3-ef1f-4ff1-b420-a7707ec4e42a",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "cloudy-urine",
+        "seoName": "Cloudy urine",
+        "symptomUuid": "0734b808-6f35-4202-b4fd-55a91f38828b",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "cold-sweats",
+        "seoName": "Cold sweats",
+        "symptomUuid": "e33fd4f7-79c5-4176-9ff1-140835b643f4",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "hiccups",
+        "seoName": "Constant hiccups",
+        "symptomUuid": "7f2d4508-5a58-472d-8009-75e497952271",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "constantly-in-fear-of-the-next-panic-attack",
+        "seoName": "Constantly in fear of the next panic attack",
+        "symptomUuid": "7bfd80c8-2196-4f6c-a457-9ea7dd96866f",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "constipation",
+        "seoName": "Constipation",
+        "symptomUuid": "a7a23097-9032-448d-9284-903f265e056f",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "cough",
+        "seoName": "Cough",
+        "symptomUuid": "c95cc7e4-5f93-4d01-9918-d10458b2279c",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "cracked-corners-of-the-mouth",
+        "seoName": "Cracked corners of the mouth",
+        "symptomUuid": "cef90eca-46b2-4fef-8ed2-5739a16587c2",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "squeaking-sound-when-moving-a-joint",
+        "seoName": "Crackling in joints",
+        "symptomUuid": "d6a3311c-6cbe-4d0c-a768-8c996d18b62e",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "pica",
+        "seoName": "Craving or eating non food items",
+        "symptomUuid": "4c732511-2c17-4016-b3a1-29dfc4b52376",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "eyes-cannot-move-outward-and-cross",
+        "seoName": "Crossed eyed",
+        "symptomUuid": "8d473031-d010-44b3-97c5-1341c35cdf91",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "currently-on-antidepressants",
+        "seoName": "Currently on antidepressants",
+        "symptomUuid": "6f085504-0f5a-49d7-a7df-37ff8a14e442",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "skin-darkening",
+        "seoName": "Dark spots on skin",
+        "symptomUuid": "5c9b1baf-ee8d-4c66-af6b-3001c3920593",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "continuation-of-concentrated-urine",
+        "seoName": "Dark yellow urine",
+        "symptomUuid": "f7d4e07c-5ec4-48b2-ac57-978003a733b0",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "daydreaming",
+        "seoName": "Daydreaming",
+        "symptomUuid": "125c00da-86dd-4512-836b-9da9eeb74310",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "decreased-fetal-movements",
+        "seoName": "Decreased fetal movements",
+        "symptomUuid": "9b2918eb-9ab6-4e15-8594-1a181910e3b4",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "becoming-less-responsive-or-less-expressive",
+        "seoName": "Decreased responsiveness",
+        "symptomUuid": "f0d25d82-b4cb-4fa3-ab57-b2bb99f18a78",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "voice-got-low",
+        "seoName": "Deeper voice",
+        "symptomUuid": "8749b903-0c7e-438e-b67d-da702ac3e8ff",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "nail-shape-abnormalities",
+        "seoName": "Deformed nails",
+        "symptomUuid": "83114c80-2b65-429c-a1b1-369f7f3b7208",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "feeling-detached-from-myself",
+        "seoName": "Depersonalization",
+        "symptomUuid": "566c582a-6db3-4800-b016-628844e0553b",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "depressed-feelings",
+        "seoName": "Depressed",
+        "symptomUuid": "2f4612c8-662a-4496-a339-868b76f88ff5",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "child-is-developing-slower-than-his-or-her-peers",
+        "seoName": "Developmental delays",
+        "symptomUuid": "bea79704-7dde-4b42-8a87-8f9c578a1266",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "diarrhea",
+        "seoName": "Diarrhea",
+        "symptomUuid": "48e41ecb-cd9c-45d6-8b4d-6608fa8dd9e3",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "difficulty-getting-up-from-a-chair",
+        "seoName": "Difficult to stand and walk after sitting",
+        "symptomUuid": "a67ba07f-d57b-4b32-b7fb-8d5134073bd7",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "difficulty-swallowing",
+        "seoName": "Difficult to swallow",
+        "symptomUuid": "47d2bcfb-6592-4a80-87d6-28fed75717b2",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "difficulty-turning-over",
+        "seoName": "Difficult to turn over in bed",
+        "symptomUuid": "fc2283bc-866e-477b-b438-25216ec4ebc5",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "difficulty-buttoning-clothes",
+        "seoName": "Difficulty buttoning shirt",
+        "symptomUuid": "dbaa2d66-de16-46e3-b9be-238b0acc95b8",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "difficulty-opening-the-mouth",
+        "seoName": "Difficulty opening mouth",
+        "symptomUuid": "64b6444b-44c0-42d0-83d5-db33dbb3df72",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "dysarthria",
+        "seoName": "Difficulty speaking",
+        "symptomUuid": "9e9b101c-84e0-404a-9b0f-af46bddd1f5a",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "difficult-to-speak-due-to-pain",
+        "seoName": "Difficulty speaking due to pain",
+        "symptomUuid": "794e6d51-da6c-4e71-80f4-65a424e7ed37",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "difficulty-urinating",
+        "seoName": "Difficulty urinating",
+        "symptomUuid": "d35bceb0-6756-4103-901f-d2f3b2ba4485",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "impossible-to-walk-normally",
+        "seoName": "Difficulty walking",
+        "symptomUuid": "41314d08-c1fa-4549-a63a-7876791c8ce8",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "cannot-write-letters",
+        "seoName": "Difficulty writing",
+        "symptomUuid": "da1d814e-a0c2-45e8-a219-2bb045c12202",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "discolored-tooth",
+        "seoName": "Discolored tooth",
+        "symptomUuid": "9699c524-0bf5-4c6c-b172-d0df5fe41fe6",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "feeling-disconnected-from-reality",
+        "seoName": "Disconnected from reality",
+        "symptomUuid": "0c015c86-9db0-4e3f-bc3c-c0090559e605",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "eye-movement-disorder",
+        "seoName": "Disorders of eye movement",
+        "symptomUuid": "71409b48-f521-4c01-9743-c4204fdf9f38",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "anorthopia",
+        "seoName": "Distorted vision",
+        "symptomUuid": "f90bcc2c-2252-48c3-aad4-ae3a8c7f609d",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "dizziness",
+        "seoName": "Dizziness",
+        "symptomUuid": "5684c025-76b4-4a8a-9495-edcd82572524",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "decline-in-spontaneity",
+        "seoName": "Don't feel like doing anything",
+        "symptomUuid": "0511f04b-8d3a-4670-a737-00cd9a25154d",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "double-vision",
+        "seoName": "Double vision",
+        "symptomUuid": "d7039ec2-02f7-4144-ad28-d1243949fb7b",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "otorrhea",
+        "seoName": "Draining from the ear",
+        "symptomUuid": "ef997aba-891a-40f0-acf6-9d28ca226d3e",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "drooling",
+        "seoName": "Drooling",
+        "symptomUuid": "15057275-bfa9-4ee5-9bc9-00b72eb3a222",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "drooling-from-one-side-of-the-mouth",
+        "seoName": "Drooling from one side of the mouth",
+        "symptomUuid": "d1bd8bcb-ce30-4d82-8bff-d32c3e9a71c5",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "eyelid-ptosis",
+        "seoName": "Drooping eyelids",
+        "symptomUuid": "c9ba9dca-3edc-4066-8538-b2de457a7d7a",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "drug-abuse-affecting-social-life-and-finances",
+        "seoName": "Drug abuse affecting social life and finances.",
+        "symptomUuid": "4ee0e8d0-d8a7-4e9b-be5f-f79fbeccd131",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "drug-abuse-with-loss-of-restraint",
+        "seoName": "Drug abuse with loss of restraint",
+        "symptomUuid": "890e058d-e0cc-41f4-a2ff-abfd1653cb30",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "drug-withdrawal-symptoms",
+        "seoName": "Drug withdrawal symptoms",
+        "symptomUuid": "48457b95-0ebb-4778-a4da-1ac73278c7e7",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "dry-eye",
+        "seoName": "Dry eye",
+        "symptomUuid": "c4f32f36-85c6-421b-b4ed-8984db4e7cc9",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "dry-mouth",
+        "seoName": "Dry mouth",
+        "symptomUuid": "53bc31f6-993f-4c71-a42c-62bfeeb4f321",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "skin-dryness",
+        "seoName": "Dry skin",
+        "symptomUuid": "fcf5b7c7-0cac-4c0a-9be8-1d8ebe465d7f",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "itchy-ears",
+        "seoName": "Ear itch",
+        "symptomUuid": "8c7cf3e7-6a81-4ff3-bcc8-3c40346dea20",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "earache",
+        "seoName": "Ear pain",
+        "symptomUuid": "b3866cc0-ad92-4a04-a9d7-3a34779a83a8",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "early-puberty",
+        "seoName": "Early puberty",
+        "symptomUuid": "c98529f6-965b-420f-9dce-d109ed8534a4",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "early-satiety",
+        "seoName": "Early satiety",
+        "symptomUuid": "86bce740-b877-448e-b697-cae38b983ddf",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "increased-irritability",
+        "seoName": "Easily irritable",
+        "symptomUuid": "a8a5cebe-688a-4ca6-ad10-eec2b9c3d511",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "elated-mood",
+        "seoName": "Elated mood",
+        "symptomUuid": "5ef2f63a-94ad-4e29-ad13-b272cf30cddf",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "elbow-pain",
+        "seoName": "Elbow pain",
+        "symptomUuid": "d48f31ab-9c40-4d0c-9957-41cac8bf7796",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "epsiodes-of-labor-like-pain",
+        "seoName": "Epsiodes of labor-like pain",
+        "symptomUuid": "3d42d7f1-b53a-4a50-a001-362018a1509d",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "euphoria",
+        "seoName": "Euphoria",
+        "symptomUuid": "2acd79bf-4cf6-4a33-ac9e-8c99c42dce0a",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "ascites",
+        "seoName": "Excess abdominal fluid",
+        "symptomUuid": "8f50df90-58c0-4517-9caf-67ebad743f65",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "excessive-burping",
+        "seoName": "Excessive burping",
+        "symptomUuid": "0dffcdee-8c14-466f-8458-9d57bb8238a8",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "increase-in-vaginal-discharge",
+        "seoName": "Excessive discharge",
+        "symptomUuid": "8cf183a4-9edd-4f2e-aac6-ecb2f94ef64c",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "many-farts",
+        "seoName": "Excessive gas",
+        "symptomUuid": "f8e1e403-9c89-4368-9863-208da0e77af4",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "excessive-spending",
+        "seoName": "Excessive spending",
+        "symptomUuid": "1d3ee272-075f-44d6-ad9a-4b707bf8fe0b",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "feel-tired",
+        "seoName": "Exhausted",
+        "symptomUuid": "2cb89231-f7ae-439b-8cbe-223406bf60b8",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "expressionless-face",
+        "seoName": "Expressionless face",
+        "symptomUuid": "2abf25df-4066-4a29-819a-fa888a6a9dbd",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "eye-discharge-or-gunk",
+        "seoName": "Eye booger",
+        "symptomUuid": "bef7ead5-8193-49f0-96a6-766c2eb4132f",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "floaters-in-vision",
+        "seoName": "Eye floaters",
+        "symptomUuid": "35e64e1f-2641-4dbf-9587-cd72f858738c",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "ocular-trauma",
+        "seoName": "Eye injuries",
+        "symptomUuid": "853e8e04-f22f-4f84-b013-8037a02d504f",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "eye-pain",
+        "seoName": "Eye pain",
+        "symptomUuid": "14cb4f73-4662-4b5b-b572-2f5a86884a97",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "conjunctival-redness",
+        "seoName": "Eye redness",
+        "symptomUuid": "acb379b2-24d9-46a3-be88-0179d6f01fb0",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "blepharospasm",
+        "seoName": "Eye twitching",
+        "symptomUuid": "225005c9-ba6e-4111-9666-b957a81d39d8",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "eye-itching-sensation",
+        "seoName": "Eyes are itching",
+        "symptomUuid": "d4f9e75d-a3a5-4687-8acc-ab5b5bc2231c",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "facial-flushing",
+        "seoName": "Face flushed",
+        "symptomUuid": "a67460be-4f88-40cd-ab0b-b512f00c6df4",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "convulsions-on-any-part-of-the-face",
+        "seoName": "Face is twitching",
+        "symptomUuid": "0307cc53-ba72-4488-ad8c-84906482487a",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "numbness-of-face-and-mouth",
+        "seoName": "Face or mouth numbness",
+        "symptomUuid": "ce46b4dd-1c90-4c72-a0c0-f5395529f3e3",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "facial-pain",
+        "seoName": "Facial pain",
+        "symptomUuid": "a9124664-2be9-425b-9220-e926e6e90409",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "facial-paralysis",
+        "seoName": "Facial paralysis",
+        "symptomUuid": "49abe60c-6a92-4d94-9d67-7d107f67f35d",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "facial-sensory-disorder",
+        "seoName": "Facial tingling",
+        "symptomUuid": "f151e2d1-63b8-4a56-b7fb-eec314880ddc",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "fainting-with-loss-of-consciousness",
+        "seoName": "Faint",
+        "symptomUuid": "91719e5d-4cd7-4185-b1be-09e404532b15",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "fall-from-a-height-of-1-m-or-more",
+        "seoName": "Fall from a height",
+        "symptomUuid": "ce0f2b74-c687-485c-b62d-c3e190987b89",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "heartbeat-fast",
+        "seoName": "Fast beating heart",
+        "symptomUuid": "953bbe8b-27dc-45cb-8f6b-f3d466b6a8ab",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "fear-of-germs",
+        "seoName": "Fear of germs",
+        "symptomUuid": "019a9d6b-6b01-4fa3-9be5-02a8686f0b0e",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "fear-of-needles",
+        "seoName": "Fear of needles",
+        "symptomUuid": "e34f3e81-8a01-421b-92c2-66d088929486",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "accidentally-passed-motion-or-leaked-stool",
+        "seoName": "Fecal incontinence",
+        "symptomUuid": "3a8f7e84-0436-42a3-8274-49c4d6805d51",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "feeling-of-unease-when-alcohol-is-not-available",
+        "seoName": "Feel uncomfortable without alcohol",
+        "symptomUuid": "22fb6a33-97fe-4b65-b216-81c87030a485",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "feelings-of-hopelessness",
+        "seoName": "Feeling hopeless",
+        "symptomUuid": "f84eab23-f74c-41d5-89e4-7dbb330a43cb",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "feeling-more-sensitive-or-irritable",
+        "seoName": "Feeling more sensitive or irritable",
+        "symptomUuid": "26de8449-af29-4a4f-ae5c-d346ddc4e52a",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "feel-uneasy-and-restless",
+        "seoName": "Feeling uneasy and restless",
+        "symptomUuid": "0d1a5bb1-f595-415a-9f23-3669f129b5af",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "feelings-of-guilt",
+        "seoName": "Feelings of guilt",
+        "symptomUuid": "afd890e6-01be-4558-82f2-d521dddde01d",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "guilty-delusion",
+        "seoName": "Feelings of guilt",
+        "symptomUuid": "a91727fb-e086-43c0-abe8-84e778eada32",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "feelings-of-jealousy",
+        "seoName": "Feelings of jealousy",
+        "symptomUuid": "d8384c24-9c67-4333-822e-f7391d941bbb",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "feelings-of-grief",
+        "seoName": "Feelings of sadness for no reason",
+        "symptomUuid": "a7325782-e514-4d19-8d02-d914066d81cd",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "feeling-that-something-is-stuck-in-the-throat",
+        "seoName": "Feels like something is stuck in my throat",
+        "symptomUuid": "d0860ce1-7926-42f9-9cde-62201ede5cc6",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "fever",
+        "seoName": "Fever",
+        "symptomUuid": "3fbc8e34-4540-4392-b30b-157fa40fde09",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "fine-crackling-when-touching-ths-skin",
+        "seoName": "Fine crackling when touching ths skin",
+        "symptomUuid": "27d69a65-9df3-408b-889e-3ee0d75efd46",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "fine-tremor-of-the-hands-and-fingers",
+        "seoName": "Fine tremors in hands",
+        "symptomUuid": "3da0b6a6-1fc6-4b2b-b555-e450cada3ed6",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "pain-in-the-wrist",
+        "seoName": "Finger joint pain",
+        "symptomUuid": "03d67465-7fd7-4426-8a5e-9c005d4d1f85",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "numbness-from-the-wrist-to-the-fingers",
+        "seoName": "Finger numbness",
+        "symptomUuid": "dd55c497-4b7c-49fb-ae81-0fa68f709bed",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "peripheral-cyanosis",
+        "seoName": "Fingers turn blue",
+        "symptomUuid": "67767083-8076-4895-958c-c93bfab459a4",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "flashbacks-or-blackouts-due-to-drug-use",
+        "seoName": "Flashbacks or \"blackouts\" due to drug use",
+        "symptomUuid": "535d584a-a35b-4141-9a37-4e8853dc1dff",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "flight-of-ideas",
+        "seoName": "Flight of ideas",
+        "symptomUuid": "3d53f514-e5e7-4b53-93e4-c268f9a6b0c1",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "foamy-urine",
+        "seoName": "Foamy urine",
+        "symptomUuid": "651fd92b-392f-44d9-abb7-3313ac5ea61d",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "foreign-body-in-the-eye",
+        "seoName": "Foreign body in the eye",
+        "symptomUuid": "f34fce9a-5b35-4a58-9285-9dbc590985c6",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "foreign-object-in-the-ear",
+        "seoName": "Foreign object in the ear",
+        "symptomUuid": "16419e09-88f1-4f4c-b9db-d398bad16fa8",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "foul-smelling-vaginal-discharge",
+        "seoName": "Foul-smelling vaginal discharge",
+        "symptomUuid": "f89af6fd-1783-4bca-877a-12ccabd4c489",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "freezing-of-gait",
+        "seoName": "Freezing of gait",
+        "symptomUuid": "eaed1e5e-149d-45c6-94a7-81cd0719fdac",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "frequent-falls",
+        "seoName": "Frequent falls",
+        "symptomUuid": "d1af2698-7076-4a67-a64e-3c31b0ffa52f",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "urinary-frequency",
+        "seoName": "Frequent urination",
+        "symptomUuid": "eb8e691b-8d2c-4761-87f3-19ce79a55db0",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "nocturia",
+        "seoName": "Frequent urination at night",
+        "symptomUuid": "78df4575-116c-4c57-86c4-40931809aa61",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "gray-hair",
+        "seoName": "Gray hair",
+        "symptomUuid": "95787d49-729e-4a4f-9739-26b7e87a1671",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "nails-turned-green",
+        "seoName": "Green nails",
+        "symptomUuid": "47fb2267-2658-454a-84c3-823e2aca1485",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "greenish-stool",
+        "seoName": "Green poop",
+        "symptomUuid": "dcfc0ee6-7786-4340-a816-218117142c15",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "inguinal-redness",
+        "seoName": "Groin area redness",
+        "symptomUuid": "3c38713a-e7f4-448d-988a-699fe684b1d2",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "groin-pain",
+        "seoName": "Groin pain",
+        "symptomUuid": "665c1286-d85a-41b8-92a5-b05da79ed884",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "swelling-of-groin-area-when-standing-up",
+        "seoName": "Groin swelling when standing up",
+        "symptomUuid": "07e086ed-cc1a-466f-abf6-1c0e1eb10ef6",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "groin-tenderness",
+        "seoName": "Groin tenderness",
+        "symptomUuid": "0feb969e-d549-43d5-b118-746c70c001dd",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "fingernails-or-toenails-appear-white-with-ground-glass-appearance",
+        "seoName": "Ground glass nails",
+        "symptomUuid": "d462a63c-0eda-47d0-a938-786c94e85d95",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "mole-with-increasing-size",
+        "seoName": "Growing mole",
+        "symptomUuid": "04348aa9-3add-4d8c-b076-7b27155bae4a",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "guilty-about-drug-abuse",
+        "seoName": "Guilty about drug abuse",
+        "symptomUuid": "44bc2828-8282-468b-ace7-18e1f282dc10",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "gum-abnormalities",
+        "seoName": "Gum problems",
+        "symptomUuid": "c6a43a90-a643-406c-bfde-18162c09dcd4",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "alopecia",
+        "seoName": "Hair loss",
+        "symptomUuid": "db911bde-99ef-4ec9-a796-f494e608d89c",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "hallucination",
+        "seoName": "Hallucinating",
+        "symptomUuid": "e30e694b-65c5-4675-9608-cb4c66b58f51",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "hand-cramps",
+        "seoName": "Hand cramps",
+        "symptomUuid": "8af2e15d-a3ad-4f26-9435-ccafff047ad4",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "hand-and-finger-pain",
+        "seoName": "Hand or finger pain",
+        "symptomUuid": "7277ac1c-2dab-448e-bc17-2bea1816fbbb",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "hand-sifftening",
+        "seoName": "Hand stiffness",
+        "symptomUuid": "ddacc3c3-780b-4554-8f06-f6d3b63ba7ff",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "cold-hands-and-feet",
+        "seoName": "Hands and feet are cold",
+        "symptomUuid": "d0636751-d6b6-4077-97af-2c9b10df7ee7",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "the-hands-and-feet-became-big",
+        "seoName": "Hands and feet became larger",
+        "symptomUuid": "d96d0d67-be25-49d9-bf2e-0dbc03722192",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "induration",
+        "seoName": "Hard skin",
+        "symptomUuid": "0b30c5ea-992f-4eeb-8438-67ded122cb8e",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "hard-to-control-drinking-alcohol",
+        "seoName": "Hard to control drinking alcohol",
+        "symptomUuid": "52968035-9c64-486b-b256-328e3654500b",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "hard-to-cut-down-drug-use",
+        "seoName": "Hard to cut down drug use",
+        "symptomUuid": "8adafcb3-f834-4516-932b-91adf37cdde8",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "hard-to-focus-my-vision",
+        "seoName": "Hard to focus my vision",
+        "symptomUuid": "f2f84094-eb5f-4780-912a-dc4074515286",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "history-of-head-injury",
+        "seoName": "Head injury",
+        "symptomUuid": "6e265d07-d1bd-402f-82cc-55228f11f897",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "headache",
+        "seoName": "Headache",
+        "symptomUuid": "6dd07e23-4e11-4bfa-816f-aa0ac621d065",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "tinnitus-and-hearing-loss",
+        "seoName": "Hearing loss",
+        "symptomUuid": "90f2742c-d393-4933-b452-d34147942cdc",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "hearing-things",
+        "seoName": "Hearing things",
+        "symptomUuid": "6070c49e-5aed-4410-a3fd-a0e7e5aa25bb",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "palpitation",
+        "seoName": "Heart palpitation",
+        "symptomUuid": "3293a17d-29a1-412d-a33a-bcfa32ec86af",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "heartburn",
+        "seoName": "Heartburn",
+        "symptomUuid": "0e3ea474-4961-4f4f-878b-5f5b3f96c59d",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "heel-pain",
+        "seoName": "Heel pain",
+        "symptomUuid": "401becdb-af51-4e2c-a543-7de17202a702",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "high-blood-pressure",
+        "seoName": "High blood pressure",
+        "symptomUuid": "954a8724-4650-4db9-b86b-0f58cccf92e8",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "pain-in-the-hip-joint",
+        "seoName": "Hip pain",
+        "symptomUuid": "9a928622-cb4f-4a71-9d99-2473ba07c45f",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "hirsutism",
+        "seoName": "Hirsutism",
+        "symptomUuid": "9151355b-20eb-4eb1-8bf5-06b7830845fd",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "hoarse-voice",
+        "seoName": "Hoarseness",
+        "symptomUuid": "6700c27d-3d53-49d0-93c0-73ab5a986e22",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "limb-feel-hot",
+        "seoName": "Hot feet and hands",
+        "symptomUuid": "5cd4c24d-bf57-4137-92fb-bc8d99e35c34",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "red-swollen-or-hot-joints",
+        "seoName": "Hot swollen red joints",
+        "symptomUuid": "797abba3-9fa3-4db3-9b70-bbf798bfc977",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "difficulty-in-opening-the-mouth-due-to-pain",
+        "seoName": "Hurts to open mouth wide",
+        "symptomUuid": "322a802a-c6af-4a8a-8ba9-70b77e80b8c2",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "pain-when-swallowing",
+        "seoName": "Hurts to swallow",
+        "symptomUuid": "459c92a4-ae7b-4e83-ac29-6559438ca3bb",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "hypomania-or-mania-preceding-a-depressive-episode",
+        "seoName": "Hypomania or mania preceding a depressive episode",
+        "symptomUuid": "977cdc0d-3206-4084-ab57-ef040c8ae9d5",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "can-t-control-drinking-alcohol",
+        "seoName": "I can't control my drinking",
+        "symptomUuid": "9329d880-7ae2-4dcd-ae26-cc2839b02ea3",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "feelings-of-frustration-and-restlessness",
+        "seoName": "I can't keep calm",
+        "symptomUuid": "8c5542e1-5a06-471c-9fcf-3e6442f1350b",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "olfactory-dysfunction",
+        "seoName": "I can't smell",
+        "symptomUuid": "b314f068-07fe-4bb3-842f-d0d36164ad12",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "i-couldn-t-understand-what-others-were-saying",
+        "seoName": "I couldn't understand what others were saying",
+        "symptomUuid": "182c40fd-65d7-4c06-99e8-4c2f1b68137f",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "feel-less-interested-and-pleased",
+        "seoName": "I don't care about anything",
+        "symptomUuid": "cda250ad-b686-4335-9d3b-f01ddc30b142",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "decrease-in-sleeping-desire",
+        "seoName": "I don't need sleep",
+        "symptomUuid": "6624fd80-76d2-448b-93f4-a6d5b40c162a",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "erectile-dysfunction",
+        "seoName": "Impotence",
+        "symptomUuid": "10b92e23-b5d3-4400-bf5b-1c67297da66f",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "lack-of-inhibitions",
+        "seoName": "Impulsiveness",
+        "symptomUuid": "4fd94c7b-3791-4f94-b033-8d84bea48485",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "sensation-of-fecal-retention",
+        "seoName": "Incomplete bowel emptying",
+        "symptomUuid": "0b894adf-5164-4ba3-9e4a-89a2151d1602",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "libido-sex-drive-is-higher-than-usual",
+        "seoName": "Increased libido",
+        "symptomUuid": "9ee515c4-3c7b-4ec7-8b12-f1af964ceba9",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "increasing-contractions-in-pregnancy",
+        "seoName": "Increasing contractions in pregnancy",
+        "symptomUuid": "c5cd9694-9777-43f6-ad06-e1dcec120619",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "indecisiveness",
+        "seoName": "Indecisiveness",
+        "symptomUuid": "7569eaaf-4d2e-42fe-9d56-4860af01c5ca",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "infertility",
+        "seoName": "Infertility",
+        "symptomUuid": "f65771a0-995e-44ef-872a-608d952e0472",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "bitten-scratched-stung-by-bugs-or-animals",
+        "seoName": "Insect or animal bites, scratches or stings",
+        "symptomUuid": "29fe00fc-cdb3-47e0-b600-be8d75b47aa8",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "insomnia",
+        "seoName": "Insomnia",
+        "symptomUuid": "677e6984-3185-4ac2-98b5-31701ce4aa01",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "urinary-discontinuation-within-1-month",
+        "seoName": "Intermittent urine flow",
+        "symptomUuid": "0057a69a-ceb5-4605-9801-faacff1cf7e6",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "eyes-tremble-or-shake",
+        "seoName": "Involuntary eye movement",
+        "symptomUuid": "5cbd50c4-d9e6-4029-a23e-f85e71b96792",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "involuntary-movements-of-the-lower-limbs",
+        "seoName": "Involuntary movements of the legs",
+        "symptomUuid": "fbcb6295-d231-4d1a-a370-d8d58ada9200",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "involuntary-muscle-jerks",
+        "seoName": "Involuntary muscle jerks",
+        "symptomUuid": "6766ec4f-c3c6-4161-bb1a-0e980135d8e4",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "awareness-of-pulse-irregularity",
+        "seoName": "Irregular heartbeat",
+        "symptomUuid": "181f3e71-2a3d-4f7c-872d-e309c477c894",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "abnormal-menstruation",
+        "seoName": "Irregular periods",
+        "symptomUuid": "913e9b5f-5a93-4fec-afb3-8a7da03d3112",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "oral-itch",
+        "seoName": "Itching inside mouth",
+        "symptomUuid": "a1ac08d0-6638-40ff-aa60-9561ce8f7b27",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "itching-of-the-penis",
+        "seoName": "Itchy penis",
+        "symptomUuid": "d7cbce04-4464-43a8-bce0-8855485fa2ac",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "itchy-scrotum",
+        "seoName": "Itchy scrotum",
+        "symptomUuid": "ea4a106b-af17-45c9-a265-104fd302ec0a",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "skin-itching",
+        "seoName": "Itchy skin",
+        "symptomUuid": "2a9adfaf-71fd-4809-9af1-342bbc149788",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "itching-of-the-urethra-or-discomfort",
+        "seoName": "Itchy urethra",
+        "symptomUuid": "cd83410d-d322-4c83-8525-9b12869752e7",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "perineal-or-vulvar-pruritis",
+        "seoName": "Itchy vulva",
+        "symptomUuid": "4de30423-4f9b-47ac-8889-58a1e7b4b23f",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "jaundice",
+        "seoName": "Jaundice",
+        "symptomUuid": "5189c054-1ab1-4ffe-a5d5-a94221d74cee",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "jaw-claudication",
+        "seoName": "Jaw claudication",
+        "symptomUuid": "1e9badfd-44e8-4220-bb66-9735637f5a08",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "jaw-swelling",
+        "seoName": "Jaw is swollen",
+        "symptomUuid": "e1ef64ac-6a5e-4517-bff1-e864ecdb7c04",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "jaw-pain",
+        "seoName": "Jaw pain",
+        "symptomUuid": "752a5af1-db21-4465-9620-dcaa5235faee",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "hear-sounds-when-opening-mouth",
+        "seoName": "Jaw popping",
+        "symptomUuid": "3e913667-a993-493f-82d6-bbacb1e431ff",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "joint-bleeds",
+        "seoName": "Joint bleeding",
+        "symptomUuid": "e69a3a73-5ec3-49ca-9edc-dd4e39e2486f",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "joint-pain",
+        "seoName": "Joint pain",
+        "symptomUuid": "44535152-5377-4da6-a96d-f7cffe74737e",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "stiff-joints",
+        "seoName": "Joint stiffness",
+        "symptomUuid": "e3b90926-0154-43ee-b73a-1eb08b7bf02c",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "joints-are-difficult-to-move",
+        "seoName": "Joint that does not move",
+        "symptomUuid": "c00a4812-ba94-405c-ab1d-ba2496df811f",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "knee-pain",
+        "seoName": "Knee pain",
+        "symptomUuid": "0303ebe4-7acd-4b4a-978d-6c230910b807",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "loss-of-self-confidence",
+        "seoName": "Lack confidence",
+        "symptomUuid": "a791a86d-f785-4b1a-8b95-d8801565f313",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "concentration-motivation-spontaneity-decrease",
+        "seoName": "Lack of motivation",
+        "symptomUuid": "2804f0e8-fcca-48e0-a075-096bb54850a6",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "unable-to-speak-or-using-incorrect-words",
+        "seoName": "Language disorder",
+        "symptomUuid": "bf7f217e-2273-47f1-9f98-4d6d9feabab0",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "no-secondary-sexual-characteristics",
+        "seoName": "Late or incomplete puberty",
+        "symptomUuid": "7eb00863-fba3-4a78-bd42-9470e4ff7c53",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "decrease-in-physical-activity-levels",
+        "seoName": "Laziness",
+        "symptomUuid": "b7e82d2f-8783-4790-8c27-40a1abad3790",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "lichenification",
+        "seoName": "Leathery neck",
+        "symptomUuid": "d9afc733-e8a5-45e6-96a6-b6d0641f9d0d",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "pain-in-the-left-half-of-the-body",
+        "seoName": "Left sided body pain",
+        "symptomUuid": "8de55ea3-9a9a-4a12-b147-a8280c49d860",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "numbness-of-lower-limbs",
+        "seoName": "Leg or foot numbness",
+        "symptomUuid": "af798001-5fe3-4c44-ac98-d5370330947f",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "dysuria-with-low-urine-volume",
+        "seoName": "Less urine with pain",
+        "symptomUuid": "62e218f3-1927-43f6-8aac-90138d25ab61",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "malaise",
+        "seoName": "Lethargic",
+        "symptomUuid": "165c676a-8154-4180-877a-5496dea78afa",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "photophobia",
+        "seoName": "Light sensitivity",
+        "symptomUuid": "7d0a24a1-962d-4010-9f13-554d4667de02",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "lighter-patches-of-skin",
+        "seoName": "Lighter patches of skin",
+        "symptomUuid": "8818935a-ed49-4d51-8104-76f7b0895b2b",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "limb-pain",
+        "seoName": "Limb pain",
+        "symptomUuid": "e530f765-8271-460a-b918-62e49e6a3e21",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "spasms-of-limbs",
+        "seoName": "Limb spasms",
+        "symptomUuid": "bc941245-8a35-49d0-8357-1e9bdae086f6",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "weakness",
+        "seoName": "Limb weakness",
+        "symptomUuid": "cc244304-ad35-48a3-afe3-6c1a6bff29d6",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "lip-pain",
+        "seoName": "Lip pain or itch",
+        "symptomUuid": "1d0f9989-fe7b-40eb-9665-c4c9a9654497",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "erosion-of-the-lip",
+        "seoName": "Lip sores",
+        "symptomUuid": "b8f04c08-ad70-48c5-939e-bd956a182632",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "difficulty-in-opening-mouth",
+        "seoName": "Lockjaw",
+        "symptomUuid": "ee5c2705-b9b1-44b0-a35b-b337bc5248e7",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "thought-disorder",
+        "seoName": "Losing my train of thought",
+        "symptomUuid": "91fe81a3-d5e6-4323-acb2-240b377e0c9a",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "loss-of-appetite",
+        "seoName": "Loss of appetite",
+        "symptomUuid": "6cb7aff0-834b-4934-a324-0a45bc924ef6",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "lost-interest-in-your-surroundings-e-g-people-society",
+        "seoName": "Lost interest in people",
+        "symptomUuid": "5e547eed-04f5-47f9-8a4a-c91eb5afe106",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "night-sweats-requiring-change-of-clothes",
+        "seoName": "Lot of sweating at night",
+        "symptomUuid": "4e27c185-972b-49dc-8225-c874f2b5a5bc",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "blood-pressure-is-low",
+        "seoName": "Low blood pressure",
+        "symptomUuid": "5ed66784-e94e-4c68-8a41-621125c69dff",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "decrease-in-sexual-desire",
+        "seoName": "Low libido",
+        "symptomUuid": "60a27362-b300-4fcd-88a8-c776758abd54",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "anemia-on-latest-blood-test",
+        "seoName": "Low red blood cell count",
+        "symptomUuid": "af938481-9327-403f-9435-3be2777ad2e3",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "reduction-of-saliva",
+        "seoName": "Low saliva production",
+        "symptomUuid": "d4c21ce5-f6aa-4328-8011-3f817ea05531",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "lack-of-urine",
+        "seoName": "Low urine output",
+        "symptomUuid": "5b0de255-07af-4522-ba82-66a127735b62",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "low-back-pain",
+        "seoName": "Lower back pain",
+        "symptomUuid": "4ecd1f76-6921-4961-9b52-f8e510c84ace",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "lower-energy-levels",
+        "seoName": "Lower energy levels",
+        "symptomUuid": "3f30f714-8ae1-4fab-b466-f22ddef22773",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "lowest-recorded-body-temperature-under",
+        "seoName": "Lowest recorded body temperature under 36℃",
+        "symptomUuid": "61d0d69c-0b83-4d29-8b22-00f4ae6a1014",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "abdominal-lump",
+        "seoName": "Lump in stomach",
+        "symptomUuid": "ca633414-0054-49f4-96af-c19b8ec11c99",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "swelling-in-the-groin-region",
+        "seoName": "Lump in the groin",
+        "symptomUuid": "8b13bd73-a2d9-4c4e-a760-8cdcbe26da2b",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "cervical-lump",
+        "seoName": "Lump in the neck",
+        "symptomUuid": "ed94a61a-9006-4fef-841f-3a65b679d1e6",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "lump-on-the-penis",
+        "seoName": "Lump on the penis",
+        "symptomUuid": "f15aaab9-48b1-49ab-9c3f-58d5733a71e2",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "subcutaneous-nodule",
+        "seoName": "Lumps under the skin",
+        "symptomUuid": "6413539b-6118-4a82-8406-e2693471f7e7",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "skin-maceration",
+        "seoName": "Macerated skin",
+        "symptomUuid": "16df0294-6fa5-41fd-ace3-a0f491c472d0",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "masculinisation",
+        "seoName": "Male pattern body hair or deepening of voice",
+        "symptomUuid": "38141464-eba7-4cfa-a18d-156c121b360f",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "gynecomastia",
+        "seoName": "Man breast",
+        "symptomUuid": "d7710573-404f-464b-8065-138b2e2d1ce5",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "megalomania",
+        "seoName": "Megalomania",
+        "symptomUuid": "b6cf4eb9-7f77-4ce4-a850-3c87d7150491",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "forgetfulness",
+        "seoName": "Memory loss",
+        "symptomUuid": "cd8bd2f2-cb6f-46d7-a943-b7f174191a1a",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "have-become-sloppy-and-have-no-concern-for-the-surroundings",
+        "seoName": "Messiness",
+        "symptomUuid": "a01ddc8f-6636-4103-b97d-90e1676cafd4",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "messy-hair",
+        "seoName": "Messy hair",
+        "symptomUuid": "7fbb18af-7095-4b7a-9a31-868e33df8f6a",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "milky-white-urine",
+        "seoName": "Milky-white urine",
+        "symptomUuid": "72d42597-34a0-4dc2-889f-55a4991ef1bf",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "mixed-manic-and-depressive-features",
+        "seoName": "Mixed manic and depressive features",
+        "symptomUuid": "defb3a5b-68c5-48ca-9ea8-953243ec4008",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "mole-with-hair",
+        "seoName": "Mole with hair",
+        "symptomUuid": "59da63a6-a6b0-448f-8964-33ea5082bce2",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "moles-on-the-skin-and-lining-of-the-mouth",
+        "seoName": "Moles on the skin and lining of the mouth",
+        "symptomUuid": "72c2e2c7-7bd7-4fe8-8396-e77d5d509075",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "change-in-mood-or-alertness",
+        "seoName": "Mood changes quickly",
+        "symptomUuid": "a0922341-1d46-4e47-aec8-47102064b381",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "mood-disturbances",
+        "seoName": "Mood swinging",
+        "symptomUuid": "ac60f30b-ec48-4399-9147-4428ee06f12a",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "increase-in-activity",
+        "seoName": "More restless than usual affecting speech and actions",
+        "symptomUuid": "30c2402c-8d44-487d-a030-3b7ede7216c0",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "morning-stiffness-lasting-more-than-an-hour",
+        "seoName": "Morning stiffness in joints",
+        "symptomUuid": "63b09aec-4170-47b2-8cbc-952c4a7fca65",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "hypersensitivity-in-the-oral-cavity",
+        "seoName": "Mouth sensitivity",
+        "symptomUuid": "c1e578cd-34d5-4888-b249-01243d6b1a52",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "oral-ulcer",
+        "seoName": "Mouth ulcer",
+        "symptomUuid": "7909745b-a5cc-4e89-8326-0b0a08c237a8",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "tendency-to-put-things-in-the-mouth",
+        "seoName": "Mouthing objects",
+        "symptomUuid": "042377c2-f37e-402d-beff-b106e97f540d",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "multiple-major-life-events",
+        "seoName": "Multiple major life events",
+        "symptomUuid": "ef93ca77-7c2c-4a6f-8890-93fe867ee257",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "muscle-pain",
+        "seoName": "Muscle pain",
+        "symptomUuid": "0e7afa3a-3a67-4a14-a53a-87c17e08f988",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "muscle-contraction",
+        "seoName": "Muscle rigidity",
+        "symptomUuid": "6d210ec5-65db-4d98-8bef-584bdd546578",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "limb-and-muscle--pain-when-grasped",
+        "seoName": "Muscle tenderness in limbs",
+        "symptomUuid": "e0c2f6b9-2ba1-45a1-aaaf-de978f8883bf",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "nail-pain",
+        "seoName": "Nail pain",
+        "symptomUuid": "e01e82fa-bb71-4ad8-8a5c-b65f3fa7c81f",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "painless-separation-of-the-nail",
+        "seoName": "Nail separating from nail bed",
+        "symptomUuid": "6d6734aa-3457-4e73-9077-bb7c56e7e718",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "narrowing-of-stool",
+        "seoName": "Narrowing of stool",
+        "symptomUuid": "ee6dbe74-92f4-4bc5-88c3-163538c99e03",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "foreign-object-in-the-nose",
+        "seoName": "Nasal foreign body",
+        "symptomUuid": "303b86c5-5538-426c-b52f-66f14b98d658",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "nasal-voice",
+        "seoName": "Nasal voice",
+        "symptomUuid": "0905e3c4-f2ad-4d20-ad3c-dd650c1af50e",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "nausea",
+        "seoName": "Nausea or vomiting",
+        "symptomUuid": "e176e5f9-e698-40bb-a3d7-824f6d113a28",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "feeling-of-presyncope",
+        "seoName": "Near syncope",
+        "symptomUuid": "c3e7645b-66c1-48e1-82bb-51f301b850ef",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "anterior-cervical-tenderness",
+        "seoName": "Neck pain in the front",
+        "symptomUuid": "248730ba-1480-4817-a6e8-d32dd7f00ea1",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "neck-pain",
+        "seoName": "Neck pain or stiffness",
+        "symptomUuid": "84acb21e-768d-4156-bdcc-00d06617b35b",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "neck-swelling",
+        "seoName": "Neck swelling",
+        "symptomUuid": "232822b8-6465-475f-a9f1-b039895c263a",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "nipple-points-inward-or-lie-flat",
+        "seoName": "Nipple points inward or lie flat",
+        "symptomUuid": "c76dfcba-d7e4-4b7a-9df2-94979f1be4fa",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "nipple-erythema-or-crusting-or-scaling-or-pruritus-or-pain",
+        "seoName": "Nipple rash, redness, discharge, pain or itch",
+        "symptomUuid": "c2a7fc7e-e6c8-47f3-a584-245902d073db",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "no-deep-sleep",
+        "seoName": "No deep sleep",
+        "symptomUuid": "35151318-65b4-4611-bd68-dfabae94cc0e",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "nose-pain",
+        "seoName": "Nose pain",
+        "symptomUuid": "6dbf5de0-5840-4305-93bb-8488d37e835d",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "hypohidrosis",
+        "seoName": "Not sweating as much",
+        "symptomUuid": "839073eb-f9fd-4e52-96fd-cca6cd8fa5e3",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "number-phobia",
+        "seoName": "Number phobia",
+        "symptomUuid": "257c3dbd-5f6a-42e7-aa0f-9488bd433093",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "numbness-of-the-body",
+        "seoName": "Numbness of chest, tummy or back",
+        "symptomUuid": "085daed7-5667-4693-84b0-c62a00e01094",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "numbness",
+        "seoName": "Numbness or abnormal sensation",
+        "symptomUuid": "25797a68-a788-42d2-ae6b-9b7156f237c5",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "obsessive-and-compulsive-thoughts",
+        "seoName": "Obsessive and compulsive thoughts",
+        "symptomUuid": "1f08f3a6-ee71-472e-882d-71eab6de59df",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "unilateral-tearing",
+        "seoName": "One eye watering",
+        "symptomUuid": "20cbf901-4643-417d-abc7-5b80a3b8c615",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "out-of-body-experience",
+        "seoName": "Out-of-body experience",
+        "symptomUuid": "eccbbb36-38af-4171-9719-9f4b3b5d09cd",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "increased-appetite",
+        "seoName": "Overeating",
+        "symptomUuid": "bbe96f93-9d9c-458a-a8dd-c0e56f984dde",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "generalized-obesity",
+        "seoName": "Overweight",
+        "symptomUuid": "a3d8ea10-cad6-4892-9607-1842ae6437cc",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "pain-at-the-start-of-urination",
+        "seoName": "Pain at the start of urination",
+        "symptomUuid": "514dd5bc-23be-4781-95eb-cb7f78612a79",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "pain-in-the-region-between-the-scrotum-and-the-anus",
+        "seoName": "Pain between scrotum and anus",
+        "symptomUuid": "025e7ba9-8606-40e9-811e-61cc97bbe21f",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "pain-from-the-belly-button-travels-to-the-left-right-groin",
+        "seoName": "Pain from belly button to groin",
+        "symptomUuid": "89e621ea-1abc-4400-a674-95b70c4ca3c4",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "pain-in-the-back-of-the-hand",
+        "seoName": "Pain in back of hand",
+        "symptomUuid": "e7fb05a9-7b36-4924-9c4b-fb0cd0567eef",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "painful-corners-of-the-mouth",
+        "seoName": "Pain in corner of mouth",
+        "symptomUuid": "3908dab3-839a-42bb-8ae9-fd6491019b4c",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "pain-in-the-penis",
+        "seoName": "Pain in the penis",
+        "symptomUuid": "f3e1f3e7-5f7d-43ed-b4b0-85e6ea9bff95",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "pain-in-the-space-between-the-genital-and-anus",
+        "seoName": "Pain in the perineum",
+        "symptomUuid": "1bf8b2b0-1587-4393-9db7-2338cddc5ef4",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "pain-in-the-right-half-of-the-body",
+        "seoName": "Pain in the right half of the body",
+        "symptomUuid": "2505b0da-5932-4d48-a7b4-fe891a899b5b",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "shoulder-pain",
+        "seoName": "Pain in the shoulder",
+        "symptomUuid": "cee89606-bb86-4007-93f6-62910fa914cf",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "pain-over-the-top-of-the-foot",
+        "seoName": "Pain in top of foot",
+        "symptomUuid": "9e0da60c-d677-4c0a-8aa3-c7eb07511ea1",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "deep-pain",
+        "seoName": "Pain inside",
+        "symptomUuid": "910322cf-8cd1-460b-b528-6e0b95257b51",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "malleolar-pain",
+        "seoName": "Pain on side of ankle",
+        "symptomUuid": "ca2fbf52-ae76-461f-82f3-dc83adaaea2f",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "sole-pain",
+        "seoName": "Pain over the soles of feet",
+        "symptomUuid": "743e3755-d7e8-43de-b69e-dcd7f728d4bf",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "dysuria",
+        "seoName": "Pain urination",
+        "symptomUuid": "ccc4560f-6fe5-433e-b9c3-55325380b05f",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "pain-when-i-tap-on-my-backbone-with-a-closed-fist",
+        "seoName": "Pain when i tap on my backbone with a closed fist",
+        "symptomUuid": "4f6bf782-f69f-450e-932b-aacf9e3ee928",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "painful-intercourse",
+        "seoName": "Painful intercourse",
+        "symptomUuid": "44138801-35c9-46a0-bdce-645350f5ae38",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "suspected-osler's-nodes",
+        "seoName": "Painful red-purple bumps on fingers",
+        "symptomUuid": "34b70caf-3636-46c4-8c7d-4d622e72212e",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "wrist-pain",
+        "seoName": "Painful wrist",
+        "symptomUuid": "3a789512-e4c4-469b-837c-e0ea1a6a7688",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "looking-pale",
+        "seoName": "Pale skin",
+        "symptomUuid": "66701bed-0530-4be1-9979-ba5af3fe8ed6",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "white-stool",
+        "seoName": "Pale stool",
+        "symptomUuid": "62ee69ae-5e4a-4501-a804-e693a1eab4ad",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "palm-pain",
+        "seoName": "Palm hurts",
+        "symptomUuid": "106c6636-cc18-4431-97db-0df2d5920dbc",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "paranoid-paranoia",
+        "seoName": "Paranoid",
+        "symptomUuid": "4ee691ea-7941-4665-ae7b-eace8e4153f0",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "urine-with-unusual-smell",
+        "seoName": "Pee smells funny",
+        "symptomUuid": "5449c628-e529-4dbd-94d3-d7dbd68ee037",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "swelling-of-the-penis",
+        "seoName": "Penile swelling",
+        "symptomUuid": "6602e664-2bae-48da-8076-db19ef6a2bc1",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "lump-in-the-space-between-the-genital-and-anus",
+        "seoName": "Perineum lump",
+        "symptomUuid": "7c0b41d4-6670-487b-b7ee-fcec51ea3707",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "menstrual-pain",
+        "seoName": "Period cramps",
+        "symptomUuid": "65489d1d-324b-4dc5-8dd4-d6dc490f4f9b",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "skin-petechiae",
+        "seoName": "Petechiae rash",
+        "symptomUuid": "59903811-242c-40ef-8367-c6c049bfcc42",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "sputum",
+        "seoName": "Phlegm",
+        "symptomUuid": "6dc9efef-c04c-495e-b671-d9c347a8d356",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "oral-growths",
+        "seoName": "Pimple in mouth",
+        "symptomUuid": "b2f2e9c9-5ce4-45aa-92fa-766aacb1f4ad",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "acne-vulgaris",
+        "seoName": "Pimples",
+        "symptomUuid": "d242cd24-b1d0-4ba0-941d-7c3e866b9844",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "pins-and-needles-all-over-my-body",
+        "seoName": "Pins and needles all over my body",
+        "symptomUuid": "a45c1b9c-37f2-47df-8d2b-46dd91aaaa4e",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "visual-impairment",
+        "seoName": "Poor vision",
+        "symptomUuid": "d9f30448-5eb9-4ab2-ae84-93c5401958c7",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "postnasal-discharge",
+        "seoName": "Post nasal drip",
+        "symptomUuid": "4c1dd740-1725-477f-bbc3-b5d734c543e6",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "symptoms-occur-at-the-start-of-the-period",
+        "seoName": "Premenstrual symptoms",
+        "symptomUuid": "795a91e2-9eab-456a-b239-0313ed1420af",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "problems-associated-with-drug-abuse",
+        "seoName": "Problems associated with drug abuse",
+        "symptomUuid": "13942a71-a4d1-4aab-9277-d200311845ac",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "mental-physicial-stress",
+        "seoName": "Psychological stress",
+        "symptomUuid": "a9999bd6-356e-41a5-8565-bbe13b2614db",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "pubic-pain",
+        "seoName": "Pubic pain",
+        "symptomUuid": "c58c3513-0ca4-4c51-82d0-426f8ed714c7",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "pulsatile-abdominal-mass",
+        "seoName": "Pulsating mass in stomach",
+        "symptomUuid": "85630547-eb84-4973-9b6f-5ee94e8ac4ab",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "unequal-pupils",
+        "seoName": "Pupils different sizes",
+        "symptomUuid": "20d85457-557c-42ca-9e0e-55dbd5b06db5",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "violaceous-or-purpuric-rash",
+        "seoName": "Purple rash",
+        "symptomUuid": "501c2a22-5a82-440a-87b8-8aa5fd207dc0",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "pus-from-around-the-anus-or-anus-itself",
+        "seoName": "Pus from the anus",
+        "symptomUuid": "6f9d8ac1-9dba-4847-87aa-fb24914979ec",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "drainage-from-the-urethra",
+        "seoName": "Pus in urethra",
+        "symptomUuid": "25fa5255-e63f-4a66-9259-1a9ff4bfe65d",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "pustule",
+        "seoName": "Pustule",
+        "symptomUuid": "8ed23941-bde5-444a-8747-77afe5e8493c",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "racing-thoughts",
+        "seoName": "Racing thoughts",
+        "symptomUuid": "47ead8b6-e362-4b3d-97c9-7cafdc8c7186",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "raynaud's-phenomenon",
+        "seoName": "Raynaud's phenomenon",
+        "symptomUuid": "97f8e9c5-9c21-4f6b-a3b9-96e3b0d0c5f6",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "recent-weight-loss",
+        "seoName": "Recent weight loss",
+        "symptomUuid": "301beb89-4f17-431b-a116-89c8077aceaf",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "bleeding-from-the-anus",
+        "seoName": "Rectal bleeding",
+        "symptomUuid": "adae50b0-3bba-4671-8a73-4dd4e320b6bf",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "red-dots-in-the-mouth",
+        "seoName": "Red dots in the mouth",
+        "symptomUuid": "745de400-5aa5-4380-86a8-c63724a4b767",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "gum-redness",
+        "seoName": "Red gums",
+        "symptomUuid": "c7130361-891e-46ae-bd89-19899b7880df",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "bleeding-in-two-or-more-nails-such-as-red-dots-lines",
+        "seoName": "Red lines in nails",
+        "symptomUuid": "13b5af7b-e93a-4c6e-94e0-bfed9deead0b",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "suspected-splinter-bleeding",
+        "seoName": "Red lines under the nails",
+        "symptomUuid": "c9e1ce9e-b5b6-47c4-9689-ab0837d08848",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "redness-of-the-lips",
+        "seoName": "Red lips",
+        "symptomUuid": "54cd933d-1bd8-4160-bd83-41b89ed761b2",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "red-or-yellow-skin-lumps",
+        "seoName": "Red or yellow skin lumps",
+        "symptomUuid": "923964f1-3302-46da-b431-ed8fd8c94a7c",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "erythema",
+        "seoName": "Red skin",
+        "symptomUuid": "43a158e0-6f8a-43cf-8781-f2a59e19f9ce",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "congestion-or-pain-or-itching-of-the-palpebral-conjunctiva",
+        "seoName": "Red sore itchy eyes",
+        "symptomUuid": "cbcabcce-55fa-46c3-8db8-2edc77d6bb75",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "pharyngeal-redness",
+        "seoName": "Red throat",
+        "symptomUuid": "40b4b8e8-6989-4dfc-88f1-fa9766e5f2fe",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "redness-of-affected-area",
+        "seoName": "Redness in the affected area",
+        "symptomUuid": "da6f6000-bda5-4ea7-b99c-9073c7500c3a",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "redness-and-swelling-of-the-urethral-opening",
+        "seoName": "Redness or swelling of the urethra",
+        "symptomUuid": "737a5ec3-b1d3-4ce1-964c-99d95151e6fa",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "repeated-behaviors-due-to-unwanted-thoughts-and-fears",
+        "seoName": "Repeated behaviors due to unwanted thoughts and fears",
+        "symptomUuid": "1857eedd-3d6f-46f2-a634-5ba5e8a28c93",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "persistent-repeated-actions",
+        "seoName": "Repetitive behavior",
+        "symptomUuid": "ffbfa541-42f6-4802-a46c-c08d25957e0c",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "repetition-action-such-as-face-shaking-or-nodding-etc",
+        "seoName": "Repetitive movements",
+        "symptomUuid": "2fc95703-5ec1-497e-b428-09c0b7045d14",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "restless-legs-syndrome",
+        "seoName": "Restless leg syndrome",
+        "symptomUuid": "dadec350-cab7-405f-b2a2-55b5557e6439",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "area-of-skin-that-is-rough-and-hard",
+        "seoName": "Rough, hard skin",
+        "symptomUuid": "f36775b0-0a66-49a3-8700-bf192c00c8da",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "nasal-discharge",
+        "seoName": "Runny nose",
+        "symptomUuid": "25f9de6a-15cb-4c48-a371-9bd79194c13c",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "scab",
+        "seoName": "Scab",
+        "symptomUuid": "037c8118-bd62-41e3-89a0-0557eba80b6e",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "skin-scaling",
+        "seoName": "Scaling skin",
+        "symptomUuid": "081fbef7-1ae2-4e05-8819-7d6e54014913",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "thinning-and-softening-of-scalp-hair",
+        "seoName": "Scalp hair became thin and soft",
+        "symptomUuid": "e5b59c34-03d7-478d-864f-0736cadb00d0",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "post-inflammatory-scarring",
+        "seoName": "Scars or marks from rash/wound",
+        "symptomUuid": "9b12092f-34bd-42d7-8b11-e32983ba8721",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "sciatica",
+        "seoName": "Sciatica",
+        "symptomUuid": "15e4a9f2-4f61-4b69-b358-bf293bcec4d6",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "flashes-or-flickering-lights-in-vision",
+        "seoName": "Seeing flashes of light",
+        "symptomUuid": "a32fdec7-f4d6-4ead-b144-43fceefb26c4",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "seizure-attack",
+        "seoName": "Seizure",
+        "symptomUuid": "54e506fa-3b02-4c7c-9508-15a7112b4b88",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "deliberate-self-harm-behavior",
+        "seoName": "Self-harm / wrist-cutting",
+        "symptomUuid": "bc12436e-643a-42e9-aa44-40ea7db4578e",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "sensation-of-water-breaking",
+        "seoName": "Sensation of water-breaking",
+        "symptomUuid": "e814d629-dbb2-4c24-ada5-721ad4de9b85",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "nipple-hypersensitivity",
+        "seoName": "Sensitive nipples",
+        "symptomUuid": "61f2d820-640c-4add-965b-74c741b622ee",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "pain-triggered-or-worsened-by-chewing",
+        "seoName": "Sensitive teeth",
+        "symptomUuid": "9d3076b3-a107-4f7a-b14a-b8894187e261",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "hearing-hypersensitivity",
+        "seoName": "Sensitive to sound",
+        "symptomUuid": "36c71492-cfd7-4f21-8fbc-0861050b2fdf",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "shin-pain",
+        "seoName": "Shin splints",
+        "symptomUuid": "62c8fba3-2335-45a7-9389-c6719c248e0f",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "shorter-than-other-children-of-similar-age",
+        "seoName": "Short in stature",
+        "symptomUuid": "dc65acbc-37b7-4e75-870b-fc1193696e45",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "angryish",
+        "seoName": "Short temper",
+        "symptomUuid": "9d64ec81-9b6f-441b-a4e2-1c420328aa02",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "difficulty-breathing",
+        "seoName": "Shortness of breath",
+        "symptomUuid": "f428aecf-c999-465f-8717-4bf3de891e7b",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "shoulder-stiffness",
+        "seoName": "Shoulder stiffness",
+        "symptomUuid": "c4bd8300-a5b6-41b2-b474-8a8fbee034de",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "skin-depressions-or-holes",
+        "seoName": "Skin depressions or holes",
+        "symptomUuid": "1c38507e-2c70-451c-84b4-fc0ed7c2695c",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "skin-excoriations-from-scratching",
+        "seoName": "Skin is broken from scratching",
+        "symptomUuid": "7b855886-51f0-43d4-94d8-d2fe75d60c57",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "erosion",
+        "seoName": "Skin ulcer",
+        "symptomUuid": "a0e2e01a-eb9e-4039-9d56-0a26ec452efb",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "sleep-apnea",
+        "seoName": "Sleep apnea",
+        "symptomUuid": "5a55ce0d-2848-4275-a717-75e2a3eeb3f9",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "inversion-of-sleep-rhythm",
+        "seoName": "Sleep during day awake at night",
+        "symptomUuid": "48dedfdc-3b44-443b-b577-a793799d47c7",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "daytime-somnolence-trend",
+        "seoName": "Sleepy all day",
+        "symptomUuid": "3e3b1a77-98c3-4af0-87f5-1d5c77634c72",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "slow-pulse",
+        "seoName": "Slow heart rate",
+        "symptomUuid": "b66441c8-4d7c-4859-9d7e-8b0880da14f6",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "slow-motion",
+        "seoName": "Slow movements",
+        "symptomUuid": "2b698cbc-e3f3-452d-9b31-10a6d5fd32a4",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "slowed-speech",
+        "seoName": "Slow speech",
+        "symptomUuid": "e7f1de6d-4fd2-4f41-9441-68f6635b1741",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "disorder-in-speaking-clearly",
+        "seoName": "Slurred speech",
+        "symptomUuid": "211024c7-ba79-4282-9733-a2b391adf0d5",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "urolithiasis",
+        "seoName": "Small stone came out when passing urine",
+        "symptomUuid": "147e4164-6a1a-4a16-bff7-134332384cad",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "testicles-shrunk",
+        "seoName": "Small testes",
+        "symptomUuid": "e625c86d-40f8-4dd0-93be-265fbd407d63",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "sneeze",
+        "seoName": "Sneezing",
+        "symptomUuid": "44c94a06-19b8-4af2-9dd2-f54845c1114d",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "snoring",
+        "seoName": "Snore",
+        "symptomUuid": "c94851b7-3aab-468d-a4a5-afa5d4fc0de7",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "performance-anxiety",
+        "seoName": "Social anxiety and blushing",
+        "symptomUuid": "9e1adab8-4453-4efb-8cb4-25149ee1c960",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "laryngopharyngeal-foreign-body",
+        "seoName": "Something stuck in throat",
+        "symptomUuid": "b625a3e1-fb7e-442e-9c19-485214639b10",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "intraoral-pain",
+        "seoName": "Sore mouth",
+        "symptomUuid": "516fa182-2402-4895-ad69-9f01321329d3",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "genital-ulcer",
+        "seoName": "Sore on genitals",
+        "symptomUuid": "aca6b8b4-ebb3-46ac-8d71-ab852dd248ad",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "sore-throat",
+        "seoName": "Sore throat",
+        "symptomUuid": "84f0047b-5626-43bf-8dc2-2998f382facb",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "tongue-pain",
+        "seoName": "Sore tongue",
+        "symptomUuid": "881ba7a7-8f94-4cba-8048-8d756544cba5",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "abdominal-discomfort",
+        "seoName": "Stomach discomfort",
+        "symptomUuid": "b3c7b308-be5b-43a4-ab1b-2d8e3f9e9e5e",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "awareness-of-intestinal-peristalsis",
+        "seoName": "Stomach growling",
+        "symptomUuid": "3f2a8eb2-fdfc-4f6a-b3ed-fd63fdd2ed61",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "abnormal-behavior",
+        "seoName": "Strange behaviour",
+        "symptomUuid": "7d6fd25b-1c87-4069-8fbf-0500195589c9",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "aphasia-apraxia-agnosia",
+        "seoName": "Strange speech or behaviour",
+        "symptomUuid": "10908f4b-91b2-4e4f-ab59-f2ec095f968b",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "stuck-on-a-topic-repeating-things",
+        "seoName": "Stuck on a topic, repeating things",
+        "symptomUuid": "d87d4d93-6ebe-48e3-aa71-544b6691f4c2",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "nasal-obstruction",
+        "seoName": "Stuffy nose",
+        "symptomUuid": "3e768961-a830-42a8-ae59-5040a8107ac3",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "stuttering",
+        "seoName": "Stuttering",
+        "symptomUuid": "f3c49b0f-5216-4bd0-a6eb-494ee0a658b6",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "eyes-are-more-sunken-than-usual",
+        "seoName": "Sunken eyes",
+        "symptomUuid": "c9969bd8-c278-4e5a-aefc-7aaaaffb617c",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "foreign-body-aspiration",
+        "seoName": "Swallowed a foreign object",
+        "symptomUuid": "b5b428ed-5681-4c81-ac93-aea7b0b669c6",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "sweating",
+        "seoName": "Sweating",
+        "symptomUuid": "4d2c4002-3cf3-405d-830f-f474db11ee97",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "parotid-gland-swelling",
+        "seoName": "Swelling of parotid glands",
+        "symptomUuid": "de0da7fe-c394-41a3-af02-f0fa17a6e96e",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "edema",
+        "seoName": "Swelling on any part of the body",
+        "symptomUuid": "e52e191f-c9a0-4562-b544-f7cce61829da",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "swelling-under-the-right-lower-ribs",
+        "seoName": "Swelling under the right lower ribs",
+        "symptomUuid": "60da1853-9426-4670-bdb1-730be47699de",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "swelling-under-the-right-ribs",
+        "seoName": "Swelling under the right ribs",
+        "symptomUuid": "e44706be-5df5-4e38-b654-92d6627a5f76",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "swollen-blood-vessels-on-the-belly",
+        "seoName": "Swollen blood vessels on the belly",
+        "symptomUuid": "d6a88967-86fc-4c8d-86bb-2cbbf4506550",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "eye-swelling",
+        "seoName": "Swollen eye",
+        "symptomUuid": "294056fc-d38d-420c-9cba-1bbf29ea3f13",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "enlarged-lymph-node",
+        "seoName": "Swollen lymph nodes",
+        "symptomUuid": "fd9970d9-e10a-47d8-9b16-3e2f1e4ea3d6",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "testicular-swelling",
+        "seoName": "Swollen testicles",
+        "symptomUuid": "b587c07b-6b8f-43ed-8d07-8e0a5c85bb60",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "toe-swelling",
+        "seoName": "Swollen toe",
+        "symptomUuid": "7bcd5a62-9e5a-4d0e-862e-e79c0fc183ad",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "prominent-jugular-veins",
+        "seoName": "Swollen vein in neck",
+        "symptomUuid": "a4393784-5d94-452c-a645-643f1d9cc42a",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "symptoms-such-as-shaking-of-hands-or-irritability-or-palpitations-or-insomnia-happen",
+        "seoName": "Symptoms of withdrawal from alcohol",
+        "symptomUuid": "d0b06deb-74a7-444d-9611-b93cb5854329",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "taste-abnormalities",
+        "seoName": "Taste disorder",
+        "symptomUuid": "a41bf506-8027-4bf3-bcba-29bac2275205",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "behaviors-contrary-to-social-ethics",
+        "seoName": "Tend to do socially unacceptable things",
+        "symptomUuid": "8210104a-e7f9-481b-84ff-faa843e9c0ed",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "scrotal-pain",
+        "seoName": "Testicular pain",
+        "symptomUuid": "258580f4-5452-4d0d-b854-a8d8bd3a2d82",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "skin-is-rough-and-thick",
+        "seoName": "Thick and rough skin",
+        "symptomUuid": "264549b5-e7ad-4ff6-9efd-a93bdcb60a89",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "cheesy-curd-like-vaginal-discharge",
+        "seoName": "Thick white discharge",
+        "symptomUuid": "f17e984f-9dd2-466f-8f36-db198885dcd6",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "thigh-pain",
+        "seoName": "Thigh pain",
+        "symptomUuid": "4c69a203-0130-4fd0-a393-2420340c3724",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "skin-atrophy",
+        "seoName": "Thin skin that bruises easily",
+        "symptomUuid": "cfe011cb-bddb-4618-a455-1dc84b63d225",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "swelling-in-the-throat",
+        "seoName": "Throat swelling",
+        "symptomUuid": "4f098b90-177d-4d54-ab59-96f24724745e",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "vomiting-of-blood",
+        "seoName": "Throwing up blood",
+        "symptomUuid": "0d7590e9-1d7a-4a22-a023-77480a1d4ce8",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "tick",
+        "seoName": "Tics",
+        "symptomUuid": "5fbe1551-024a-4d87-a850-7536d1bed467",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "tinnitus",
+        "seoName": "Tinnitus",
+        "symptomUuid": "39c66fa8-9477-4aa6-b3ec-348c45ee3c94",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "am-tired-almost-every-day-or-not-motivated-to-do-anything",
+        "seoName": "Tired and unmotivated",
+        "symptomUuid": "59bcac0a-f0e2-4bd5-8f15-fdca8e9679af",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "eye-fatigue",
+        "seoName": "Tired eyes",
+        "symptomUuid": "75417c05-8566-4639-9883-70ec55b9a269",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "toe-numbness-or-tingling",
+        "seoName": "Toe numbness or tingling",
+        "symptomUuid": "ba5f36dd-e58b-4c37-b2ea-4b28149e98fe",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "pain-in-the-toes",
+        "seoName": "Toe pain",
+        "symptomUuid": "62e47bad-b2a4-459a-92f6-77bee5cc3c4a",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "difficulty-protruding-tongue",
+        "seoName": "Tongue tied",
+        "symptomUuid": "5ec18065-1a92-455e-a926-caa1db6f4e24",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "abnormal-lacrimal-amount",
+        "seoName": "Too much or too little tears",
+        "symptomUuid": "36e64ee2-b514-48fe-88cb-84b8e2ee73ec",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "difficulty-in-chewing-due-to-pain",
+        "seoName": "Too painful to chew",
+        "symptomUuid": "4ae35d6b-c74d-46ba-872c-ded50de4afad",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "supine-position-impossible-due-to-pain",
+        "seoName": "Too painful to lie on back",
+        "symptomUuid": "afcb7414-27a2-4d6a-923c-6c1ded621bb3",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "toothache",
+        "seoName": "Toothache",
+        "symptomUuid": "0dc318a3-d8bf-4675-8fbc-f3428f9c2304",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "having-trance-like-seizure",
+        "seoName": "Trance like seizure",
+        "symptomUuid": "90fb3512-ce0b-4b1a-9242-d6a6646fa90e",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "tremors-in-fingers-and-or-body",
+        "seoName": "Trembling of fingers or whole body",
+        "symptomUuid": "49e20511-57ed-4d31-8e26-53b765bc6dbc",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "involuntary-movements",
+        "seoName": "Uncontrollable movements",
+        "symptomUuid": "3d25e13e-56d8-4c7c-93e9-2499b837e2a0",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "weight-gain-of-percent-or-more-in-1-month",
+        "seoName": "Unintentional weight gain",
+        "symptomUuid": "b5fb5daf-ab8d-453f-b32d-a2d66efd563c",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "unexplained-weight-loss-of-5%-or-more-in-1-month",
+        "seoName": "Unintentional weight loss",
+        "symptomUuid": "e2b326fb-d634-40f7-826a-9ef0c6b918c6",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "unusual-behavior-or-actions-when-sleeping",
+        "seoName": "Unusual behavior or actions when sleeping",
+        "symptomUuid": "294ee7f6-6364-4a88-9440-c0cd0988d1e2",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "suspected-splenomegaly",
+        "seoName": "Upper left side of stomach swollen",
+        "symptomUuid": "e08b231d-3cad-47d1-82e5-9e9baf9ab496",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "urinary-urgency",
+        "seoName": "Urgent urination",
+        "symptomUuid": "bad32922-0afd-4e73-9a79-97754ea25cbd",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "feeling-of-not-completed-urination",
+        "seoName": "Urinary retention",
+        "symptomUuid": "a7e6c495-8d51-4aa6-8b16-a53aa9796215",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "urinary-incontinence",
+        "seoName": "Urine incontinence",
+        "symptomUuid": "137474ad-d37f-42bd-a0b8-d8a0e568b9f6",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "feeling-that-something-is-coming-out-of-the-vagina",
+        "seoName": "Uterus falling out",
+        "symptomUuid": "ca25be9e-600a-4392-9ab1-124fa5fa0fd0",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "female-genital-pain",
+        "seoName": "Vaginal pain",
+        "symptomUuid": "f765deb2-eb02-4431-8165-53d4efb18f34",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "varicose-veins",
+        "seoName": "Varicose veins",
+        "symptomUuid": "6f2ee8b6-b726-475c-8735-0af53bc490d0",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "verbal-or-physical-outbursts-for-minor-things",
+        "seoName": "Verbal or physical outbursts for minor things",
+        "symptomUuid": "e26d2b20-7baf-4769-b4d7-0b4bc9add02c",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "visibly-enlarged-blood-vessels-on-the-scrotum",
+        "seoName": "Visibly enlarged blood vessels on the scrotum",
+        "symptomUuid": "723fcedc-d2aa-43b6-ae32-1855418e9b25",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "feeling-of-heat-of-joint",
+        "seoName": "Warm joints",
+        "symptomUuid": "39939542-1f23-4e76-a5f3-873775c8643b",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "weak-urine-stream",
+        "seoName": "Weak urine stream",
+        "symptomUuid": "d534b0de-9f73-4212-8e10-7514f5c6d389",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "wedge-shaped-tooth-defect",
+        "seoName": "Wedge-shaped tooth defect",
+        "symptomUuid": "825922df-9fd6-4042-acde-2f2c7920e625",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "respiratory-wheeze",
+        "seoName": "Wheezing",
+        "symptomUuid": "1afa1701-75fe-4b91-a1d8-7be7ed3140b2",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "white-spots-on-the-mouth-surface-or-tongue",
+        "seoName": "White spots on the mouth surface or tongue",
+        "symptomUuid": "e1586332-4608-446f-a38a-ebebe3a10159",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "white-cheese-like-spots-on-the-tonsils",
+        "seoName": "White spots on the tonsils",
+        "symptomUuid": "eee11140-7271-4e0c-af89-d090848457db",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "whitened-thickened-nails",
+        "seoName": "White, cloudy and thickened nails",
+        "symptomUuid": "87763fd7-d39e-4510-9f0c-78c3c581760f",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "pale-pellet-like-stool",
+        "seoName": "White, pellet-like stools",
+        "symptomUuid": "2aef5e5d-15fa-488a-9a2f-65cc0b71f469",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "whitish-curd-like-substances-in-the-tongue-mouth",
+        "seoName": "Whitish, curd-like substances in the tongue/mouth",
+        "symptomUuid": "751b2131-5a7f-42dd-b010-93ba45345315",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "pain-in-the-whole-body",
+        "seoName": "Whole body pain",
+        "symptomUuid": "3cd4323c-baac-4914-bbe8-6549484d5f61",
+        "diseaseUuid": "",
+        "specialty": null
+    },
+    {
+        "type": "symptom",
+        "path": "worried-about-body-odor",
+        "seoName": "Worried about body odor",
+        "symptomUuid": "ec2d7855-eedb-4ed1-badb-8a134d5d4fe2",
+        "diseaseUuid": "",
+        "specialty": null
+    }
+]
