@@ -24,5 +24,11 @@ class DistributorViewSet(ListModelMixin, GenericViewSet):
         url_path='fetch'
     )
     def list_analysis(self, request, *args, **kwargs):
-        response = ["check 1"]
-        return Response(response, status=http_status.HTTP_200_OK)
+        # results = Distributor.objects.filter(name__contains ="Nee")
+        name_filter = request.query_params.get('name',None)
+        results = Distributor.objects.filter(name__contains=name_filter)
+        print("dadsss",results)
+
+        response = DistributorSerializer(results, many=True)
+
+        return Response(response.data, status=http_status.HTTP_200_OK)
