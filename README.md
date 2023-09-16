@@ -14,3 +14,10 @@ pip install -r requirements.txt
 ```bash
 python manage.py runserver
 ```
+
+# turn models into tables (migration)
+
+```bash
+python manage.py makemigration
+python manage.py migrate
+```

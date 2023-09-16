@@ -3,8 +3,8 @@ from rest_framework import routers
 router = routers.DefaultRouter()
 
 # -------------------------------
-import stractor.common.api.views  as symptom_api_views
+import stractor.common.api.views  as distributor_api_views
 
-router.register(r'symptom', symptom_api_views.SymptomViewSet)
+router.register(r'distributor', distributor_api_views.DistributorViewSet)
 # -------------------------------
 
