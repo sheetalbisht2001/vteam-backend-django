@@ -3,8 +3,8 @@ from stractor.constants.fields import UuidPKField, CreatedAtField, UpdatedAtFiel
 from django.db import models
 
 
-class Distributor(models.Model):
-    id = UuidPKField()
+class Distributor(models.Model):  #representing a database table here
+    id = UuidPKField()     
     registration_date = models.DateField(null=True, blank=True)
     designation = models.CharField(max_length=255,null=True, blank=True)
     name = models.CharField(max_length=255)

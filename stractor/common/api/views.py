@@ -26,9 +26,8 @@ class DistributorViewSet(ListModelMixin, GenericViewSet):
         url_path='fetch'
     )
     def list_analysis(self, request, *args, **kwargs):
-        # results = Distributor.objects.filter(name__contains ="Nee")
-        entity_filter = request.query_params.get('entity',None)
-        results = Distributor.objects.filter(Q(name__icontains=entity_filter) | Q(vid=entity_filter))
+        entity_filter = request.query_params.get('entity',None) 
+        results = Distributor.objects.filter(Q(name__icontains=entity_filter) | Q(vid=entity_filter)) #filter for searching the people with their id or names
 
         print("dadsss",results)
 

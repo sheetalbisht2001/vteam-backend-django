@@ -37,6 +37,9 @@ python manage.py migrate
 
 
 
+
+# BELOW ARE THE COMMANDS TO ACTIVATE VENV
+
 <!-- sheetal@sheetal-VivoBook-ASUSLaptop-X515EA-X515EA:~$ cd Desktop/
 sheetal@sheetal-VivoBook-ASUSLaptop-X515EA-X515EA:~/Desktop$ ls
  46                    'nandi 1.zip'  'New folder (2)'
