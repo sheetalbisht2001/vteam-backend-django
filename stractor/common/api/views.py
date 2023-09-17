@@ -5,6 +5,8 @@ from rest_framework.decorators import action
 from rest_framework.mixins import ListModelMixin
 from rest_framework.response import Response
 from rest_framework.viewsets import GenericViewSet
+from django.db.models import Q
+
 
 from stractor.common.models import Distributor
 from stractor.common.serializers.serializers import DistributorSerializer
@@ -25,8 +27,9 @@ class DistributorViewSet(ListModelMixin, GenericViewSet):
     )
     def list_analysis(self, request, *args, **kwargs):
         # results = Distributor.objects.filter(name__contains ="Nee")
-        name_filter = request.query_params.get('name',None)
-        results = Distributor.objects.filter(name__icontains=name_filter)
+        entity_filter = request.query_params.get('entity',None)
+        results = Distributor.objects.filter(Q(name__icontains=entity_filter) | Q(vid=entity_filter))
+
         print("dadsss",results)
 
         response = DistributorSerializer(results, many=True)
