@@ -26,7 +26,7 @@ class DistributorViewSet(ListModelMixin, GenericViewSet):
     def list_analysis(self, request, *args, **kwargs):
         # results = Distributor.objects.filter(name__contains ="Nee")
         name_filter = request.query_params.get('name',None)
-        results = Distributor.objects.filter(name__contains=name_filter)
+        results = Distributor.objects.filter(name__icontains=name_filter)
         print("dadsss",results)
 
         response = DistributorSerializer(results, many=True)
