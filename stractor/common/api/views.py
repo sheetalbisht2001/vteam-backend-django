@@ -5,7 +5,7 @@ from rest_framework.decorators import action
 from rest_framework.mixins import ListModelMixin
 from rest_framework.response import Response
 from rest_framework.viewsets import GenericViewSet
-from django.db.models import Q
+from django.db.models import Q, F
 
 
 from stractor.common.models import Distributor
@@ -27,10 +27,32 @@ class DistributorViewSet(ListModelMixin, GenericViewSet):
     )
     def list_analysis(self, request, *args, **kwargs):
         entity_filter = request.query_params.get('entity',None) 
-        results = Distributor.objects.filter(Q(name__icontains=entity_filter) | Q(vid=entity_filter)) #filter for searching the people with their id or names
+        # results = Distributor.objects.filter(Q(name__icontains=entity_filter) | Q(vid=entity_filter)) #filter for searching the people with their id or names
 
-        print("dadsss",results)
+        queryset = Distributor.objects.prefetch_related('upline').values(
+            'id', 
+            'registration_date',
+            'designation', 
+            'name', 
+            'percentage',
+            'prev_cumpv',
+            'exclusive_pv',
+            'self_pv',
+            'group_pv',
+            'total_pv' , 
+            'short_points', 
+            'next_level_percentage',
+            'vid',
+            'upline_id', 
+            'address',
+            'phone_number',
+            upline_name=F('upline__name')
+        )
 
-        response = DistributorSerializer(results, many=True)
+        # print("dadsss",results)
+
+        response = DistributorSerializer(queryset, many=True)
 
         return Response(response.data, status=http_status.HTTP_200_OK)
+    
+

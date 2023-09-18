@@ -22,3 +22,5 @@ class DistributorSerializer(serializers.Serializer):
     address = serializers.CharField(max_length=255)
     phone_number = serializers.CharField(max_length=255)
 
+    upline_name = serializers.CharField(max_length=255)
+
