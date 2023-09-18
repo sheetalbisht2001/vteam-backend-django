@@ -69,11 +69,7 @@ sheetal@sheetal-VivoBook-ASUSLaptop-X515EA-X515EA:~/Desktop/virtual-envs$ source
 (vteam-venv) sheetal@sheetal-VivoBook-ASUSLaptop-X515EA-X515EA:~/Desktop$ cd code
 (vteam-venv) sheetal@sheetal-VivoBook-ASUSLaptop-X515EA-X515EA:~/Desktop/code$ ls
 (vteam-venv) sheetal@sheetal-VivoBook-ASUSLaptop-X515EA-X515EA:~/Desktop/code$ cd ~/Downloads/
-(vteam-venv) sheetal@sheetal-VivoBook-ASUSLaptop-X515EA-X515EA:~/Downloads$ lsd
 
-Command 'lsd' not found, but can be installed with:
-
-sudo snap install lsd
 
 (vteam-venv) sheetal@sheetal-VivoBook-ASUSLaptop-X515EA-X515EA:~/Downloads$ ls
  Affirmations.docx                  OpenJDK17U-jdk_x64_linux_hotspot_17.0.8_7.tar.gz
@@ -98,9 +94,7 @@ sudo snap install lsd
 (vteam-venv) sheetal@sheetal-VivoBook-ASUSLaptop-X515EA-X515EA:~/Downloads/vteam-backend-django$ ls
 ascripts  db_migrations  Pipfile       README.md         settings
 conf      manage.py      Pipfile.lock  requirements.txt  stractor
-(vteam-venv) sheetal@sheetal-VivoBook-ASUSLaptop-X515EA-X515EA:~/Downloads/vteam-backend-django$ ls
-ascripts  db_migrations  Pipfile       README.md         settings
-conf      manage.py      Pipfile.lock  requirements.txt  stractor
+
 (vteam-venv) sheetal@sheetal-VivoBook-ASUSLaptop-X515EA-X515EA:~/Downloads/vteam-backend-django$ python manage.py runserver
 Performing system checks...
 
