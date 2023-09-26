@@ -34,68 +34,47 @@ python manage.py migrate
 ```
 
 
+## TO run the data extraction script from website
+```bash
+1. Create the upline manually
+2. Take the cookie from website
+3. python manage.py data_extraction
+```
 
 
+## TODO
+>>Frontend 
+1. Add a dashboard to the web app - Neelesh
+2. Create a module for plottin graphs on points view in vwebiste
+
+>>Backend
+1. Add json field to distributor table - Sheetal
+2. get api for dashboard - Sheetal
+4. add current cumulative PV column in table - Sheetal
+
+3. Explore timescaledb for time series data of distributo (Move changing column to this timescale db)
+4. script to read dashbarod from vwebsite
+5. script to read points from vwebsite
+6. Api to read timeseries data of a particular distribtor over a perid of time
+7. Automate login of vwebsite and create a uuid of person if not there and read the cookie, s that we can automate whole script of reading data from website
+8. 
 
 
 # BELOW ARE THE COMMANDS TO ACTIVATE VENV
 
 <!-- sheetal@sheetal-VivoBook-ASUSLaptop-X515EA-X515EA:~$ cd Desktop/
 sheetal@sheetal-VivoBook-ASUSLaptop-X515EA-X515EA:~/Desktop$ ls
- 46                    'nandi 1.zip'  'New folder (2)'
- 789                    nandi1.zip    'New folder (3)'
- code                  'nandi 2.zip'  'New folder (5).zip'
- DOCUMENTS             'nandi 3.zip'   Private.zip
- jdk-20_linux-x64_bin  'nandi 4.zip'   SBG.zip
-'k Camera.zip'         'nandi 5.zip'   tanuja.zip
-'k New folder.zip'      nandi.zip      virtual-envs
-'nandi 1 (2).zip'      'New folder'
-sheetal@sheetal-VivoBook-ASUSLaptop-X515EA-X515EA:~/Desktop$ cd virtual-envs/
-sheetal@sheetal-VivoBook-ASUSLaptop-X515EA-X515EA:~/Desktop/virtual-envs$ ls
-vteam-venv
-sheetal@sheetal-VivoBook-ASUSLaptop-X515EA-X515EA:~/Desktop/virtual-envs$ ls
-vteam-venv
-sheetal@sheetal-VivoBook-ASUSLaptop-X515EA-X515EA:~/Desktop/virtual-envs$ source vteam-venv/bin/activate
-(vteam-venv) sheetal@sheetal-VivoBook-ASUSLaptop-X515EA-X515EA:~/Desktop/virtual-envs$ cd ..
-(vteam-venv) sheetal@sheetal-VivoBook-ASUSLaptop-X515EA-X515EA:~/Desktop$ ls
- 46                    'nandi 1.zip'  'New folder (2)'
- 789                    nandi1.zip    'New folder (3)'
- code                  'nandi 2.zip'  'New folder (5).zip'
- DOCUMENTS             'nandi 3.zip'   Private.zip
- jdk-20_linux-x64_bin  'nandi 4.zip'   SBG.zip
-'k Camera.zip'         'nandi 5.zip'   tanuja.zip
-'k New folder.zip'      nandi.zip      virtual-envs
-'nandi 1 (2).zip'      'New folder'
 (vteam-venv) sheetal@sheetal-VivoBook-ASUSLaptop-X515EA-X515EA:~/Desktop$ cd code
 (vteam-venv) sheetal@sheetal-VivoBook-ASUSLaptop-X515EA-X515EA:~/Desktop/code$ ls
 (vteam-venv) sheetal@sheetal-VivoBook-ASUSLaptop-X515EA-X515EA:~/Desktop/code$ cd ~/Downloads/
 
 
 (vteam-venv) sheetal@sheetal-VivoBook-ASUSLaptop-X515EA-X515EA:~/Downloads$ ls
- Affirmations.docx                  OpenJDK17U-jdk_x64_linux_hotspot_17.0.8_7.tar.gz
- api.zip                            pryog30.pdf
- blog_sheetalbiisht-main.zip        Python-3.11.5
- chrome-linux64.zip                 Python-3.11.5.tar.xz
- cmder                              readme.txt
- cmder.zip                          remix-backup-at-22h6min-2023-9-14.zip
- code_1.81.0-1690980880_amd64.deb   rtw88-master
-'Daily Activity Tracker.docx'      'Screenshot 2023-09-16 at 7.45.58 PM.png'
- dbeaver-ce_23.1.4_amd64.deb        sheetalbisht2001.github.io-master.zip
- Frontend                          'Sheetal_Bisht_Resume (1).pdf'
- hydejack-master.zip                Sheetal_Bisht_Resume.pdf
- ideaIU-2023.2                      solidity_0.8.20
- ideaIU-2023.2.tar.gz               solidity_0.8.20.tar.gz
- IP_260723_MMS_DL_ENG.pdf          'Trade Ledger- Calendar Spread Strategy (1).xlsx'
-'Mindset Assignment 01.docx'       'Trade Ledger- Calendar Spread Strategy.xlsx'
-'Mindset Assignment 02.docx'        vteam-backend-django
-'new pdf 123 (1).pdf'               vteam-backend-django.zip
-'new pdf 123.pdf'
+
 (vteam-venv) sheetal@sheetal-VivoBook-ASUSLaptop-X515EA-X515EA:~/Downloads$ cd vteam-backend-django/
 (vteam-venv) sheetal@sheetal-VivoBook-ASUSLaptop-X515EA-X515EA:~/Downloads/vteam-backend-django$ ls
-ascripts  db_migrations  Pipfile       README.md         settings
-conf      manage.py      Pipfile.lock  requirements.txt  stractor
 
 (vteam-venv) sheetal@sheetal-VivoBook-ASUSLaptop-X515EA-X515EA:~/Downloads/vteam-backend-django$ python manage.py runserver
-Performing system checks...
+
 
 

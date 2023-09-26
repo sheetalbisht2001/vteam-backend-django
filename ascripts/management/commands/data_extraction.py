@@ -12,6 +12,9 @@ from bs4 import BeautifulSoup
 from stractor.common.models.models import Distributor
 
 
+PARENT_UPLINE_ID = '56a03a85-801d-4785-9099-4d3a1524f003'
+COOKIE = 'ASP.NET_SessionId=2gt5hshifqd32hokstgyd2b2; _clck=1z0yy8y|2|ffc|0|1306; _gid=GA1.2.1886032209.1695737929; _ga=GA1.1.1541421837.1690730274; _clsk=1xaeenz|1695738012635|2|1|y.clarity.ms/collect; _ga_DFQYN30LLV=GS1.1.1695737929.9.1.1695738022.0.0.0; AWSALB=EhHZrEAjKkTrrF9kptTUiwL+JShXkEidIkPI1d4tD/bYjMrpEiKo0MoguB/TZMijboiJgKu98Vp1AaKFiGUzndOaaOn1fJRmLakfc/5rjf7pnhMRxYSgTGTJ71gi; AWSALBCORS=EhHZrEAjKkTrrF9kptTUiwL+JShXkEidIkPI1d4tD/bYjMrpEiKo0MoguB/TZMijboiJgKu98Vp1AaKFiGUzndOaaOn1fJRmLakfc/5rjf7pnhMRxYSgTGTJ71gi'
+
 def fetch_downline_data(payload):
     # Define the URL
     url = 'https://www.myvestige.com/loggedin/downline.aspx'
@@ -23,7 +26,7 @@ def fetch_downline_data(payload):
         'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8,hi;q=0.7',
         'cache-control': 'max-age=0',
         'content-type': 'application/x-www-form-urlencoded',
-        'cookie': 'ASP.NET_SessionId=2gt5hshifqd32hokstgyd2b2; _gid=GA1.2.751101234.1694944116; _ga=GA1.1.1541421837.1690730274; _clck=1z0yy8y|2|ff3|0|1306; _clsk=b2j88p|1694944117644|1|1|p.clarity.ms/collect; _ga_DFQYN30LLV=GS1.1.1694944115.6.0.1694944123.0.0.0; AWSALB=zUWYxnniCy6Gt0mFCFEDZCqH9F8dDuSYm/m8Luy0PreXFyYEMwJHtE5ovja0zWGb1t+3UedyZIvDmfT/VDHTsayGGgOALEOe5Ih97GeW2Z9p/skg01E75KjKjTPg; AWSALBCORS=zUWYxnniCy6Gt0mFCFEDZCqH9F8dDuSYm/m8Luy0PreXFyYEMwJHtE5ovja0zWGb1t+3UedyZIvDmfT/VDHTsayGGgOALEOe5Ih97GeW2Z9p/skg01E75KjKjTPg; AWSALB=O/ZpPOZjtY824hf6+Lgz6TS7xUpelKpTxWx0RHdOLR1GneTCiDNifcdJWK/PsTolazgVqoyUlqPEOn0mvxqcZ7Dv+Y0z8kqC9A7Xc6pkviewkD8c0o6j5btPKgmM; AWSALBCORS=O/ZpPOZjtY824hf6+Lgz6TS7xUpelKpTxWx0RHdOLR1GneTCiDNifcdJWK/PsTolazgVqoyUlqPEOn0mvxqcZ7Dv+Y0z8kqC9A7Xc6pkviewkD8c0o6j5btPKgmM',
+        'cookie': COOKIE,
         'origin': 'https://www.myvestige.com',
         'referer': 'https://www.myvestige.com/loggedin/downline.aspx',
         'sec-ch-ua': '"Chromium";v="116", "Not)A;Brand";v="24", "Google Chrome";v="116"',
@@ -170,6 +173,6 @@ class Command(BaseCommand):
 
     def handle(self, *args, **options):
         downline_obj_arr = []
-        create_downline_data(downline_obj_arr, '56a03a85-801d-4785-9099-4d3a1524f003', None, None)
+        create_downline_data(downline_obj_arr, PARENT_UPLINE_ID, None, None)
         Distributor.objects.bulk_create(downline_obj_arr)
         print("SUCCESSFULLY DONE.")
