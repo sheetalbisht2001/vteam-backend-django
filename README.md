@@ -60,6 +60,10 @@ python manage.py migrate
 8. 
 
 
+## to start influx db 
+1. In terminal run `influxd`
+
+
 # BELOW ARE THE COMMANDS TO ACTIVATE VENV
 
 <!-- sheetal@sheetal-VivoBook-ASUSLaptop-X515EA-X515EA:~$ cd Desktop/

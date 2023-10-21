@@ -13,7 +13,7 @@ from stractor.common.models.models import Distributor
 
 
 PARENT_UPLINE_ID = '56a03a85-801d-4785-9099-4d3a1524f003'
-COOKIE = 'ASP.NET_SessionId=2gt5hshifqd32hokstgyd2b2; _clck=1z0yy8y|2|ffc|0|1306; _gid=GA1.2.1886032209.1695737929; _ga=GA1.1.1541421837.1690730274; _clsk=1xaeenz|1695738012635|2|1|y.clarity.ms/collect; _ga_DFQYN30LLV=GS1.1.1695737929.9.1.1695738022.0.0.0; AWSALB=EhHZrEAjKkTrrF9kptTUiwL+JShXkEidIkPI1d4tD/bYjMrpEiKo0MoguB/TZMijboiJgKu98Vp1AaKFiGUzndOaaOn1fJRmLakfc/5rjf7pnhMRxYSgTGTJ71gi; AWSALBCORS=EhHZrEAjKkTrrF9kptTUiwL+JShXkEidIkPI1d4tD/bYjMrpEiKo0MoguB/TZMijboiJgKu98Vp1AaKFiGUzndOaaOn1fJRmLakfc/5rjf7pnhMRxYSgTGTJ71gi'
+COOKIE = 'ASP.NET_SessionId=hzfk5ke4ooinql0wmcsfjlao; _gid=GA1.2.492615491.1697886267; _gat_gtag_UA_209062538_1=1; _ga=GA1.1.1541421837.1690730274; _clck=1z0yy8y|2|fg1|0|1306; _clsk=1rwgznj|1697886269673|1|1|w.clarity.ms/collect; _ga_DFQYN30LLV=GS1.1.1697886267.11.0.1697886279.0.0.0; AWSALB=Hq94HBNWkOZLJrq/k+1OCGxIWWspwaltarB9VuYiJhP+MiWzudMw0DpPYdhLxHyGX68N5N4WgMdvwnxVXO6RugjzY56/2gidksw4RdAANly7Z2Uu430l+r2ifB/h; AWSALBCORS=Hq94HBNWkOZLJrq/k+1OCGxIWWspwaltarB9VuYiJhP+MiWzudMw0DpPYdhLxHyGX68N5N4WgMdvwnxVXO6RugjzY56/2gidksw4RdAANly7Z2Uu430l+r2ifB/h'
 
 def fetch_downline_data(payload):
     # Define the URL
