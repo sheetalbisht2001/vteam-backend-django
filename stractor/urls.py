@@ -14,15 +14,14 @@ class BothHttpAndHttpsSchemaGenerator(OpenAPISchemaGenerator):
     def get_schema(self, request=None, public=False):
         schema = super().get_schema(request, public)
         schema.schemes = ["https", "http"]
-        # schema.basePath = os.path.join('/svec', 'ivms', 'reporting', 'api', 'v1')
         return schema
 
 
 schema_view = get_schema_view(
     info=openapi.Info(
-        title="IVMS API",
+        title="API",
         default_version='v1',
-        description="V1 API for IVMS"),
+        description="V1 API for"),
     public=True,
     generator_class=BothHttpAndHttpsSchemaGenerator, # Here
     permission_classes=(permissions.AllowAny,),
@@ -50,4 +49,4 @@ urlpatterns = [
 
 
 # django admin tools dashboard
-ADMIN_TOOLS_INDEX_DASHBOARD = 'ivms.dashboard.CustomIndexDashboard'
+ADMIN_TOOLS_INDEX_DASHBOARD = 'vteam.dashboard.CustomIndexDashboard'

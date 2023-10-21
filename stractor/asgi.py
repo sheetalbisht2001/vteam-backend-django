@@ -1,5 +1,5 @@
 """
-ASGI config for ivms_backend_django project.
+ASGI config for vteam_backend_django project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 

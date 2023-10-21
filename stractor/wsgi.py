@@ -1,5 +1,5 @@
 """
-WSGI config for ivms_backend_django project.
+WSGI config for vteam_backend project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
